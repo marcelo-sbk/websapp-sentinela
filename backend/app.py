@@ -1,7 +1,12 @@
 import os
-from dotenv import load_dotenv
 import json
+import ee
+from datetime import datetime
+from dotenv import load_dotenv
+
+from flask import Flask, request, jsonify
 from flask_cors import CORS
+
 load_dotenv()
 
 # Autenticação GEE com arquivo local
