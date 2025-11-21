@@ -1,0 +1,5595 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-458d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.267409,
+          2.352316
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VIC. 4 ROCHINHO, GLEBA CARACARAÍ.",
+        "endereco": "VIC. 4 ROCHINHO, GLEBA CARACARAÍ.",
+        "municip": "MUCAJAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.352316",
+        "longitude": "-61.267409",
+        "atividade": "PASTAGEM",
+        "area_lic": 15,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 244,
+        "proces_sei": "18201.001296/2023.80"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-458c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.140179,
+          1.029929
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO ALVORADA.",
+        "endereco": "VICINAL 16, KM 03, LOTE 106, GLEBA BALIZA.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "1.029929",
+        "longitude": "-60.140179",
+        "atividade": "PASTAGEM",
+        "area_lic": 20,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 160,
+        "proces_sei": "18201.000629/2023.53"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-458b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.020915,
+          1.122394
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA CALIMEIRO.",
+        "endereco": "VICINAL 21, KM 11, GLEBA BALIZA.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "1.122394",
+        "longitude": "-60.020915",
+        "atividade": "PASTAGEM",
+        "area_lic": 119.4329,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 203,
+        "proces_sei": "18201.000982/2023.33"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-458a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.125249,
+          0.806212
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO PARAISO ",
+        "endereco": "VICINAL 24, LOTE 197, GLEBA JAUAPERÍ",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.806212",
+        "longitude": "-60.125249",
+        "atividade": "PASTAGEM",
+        "area_lic": 2,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 305,
+        "proces_sei": "18201.001789/2023.10"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.017192,
+          1.582107
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO NOBRE",
+        "endereco": "SÍTIO NOBRE LOTE, S/N, GLEBA VISTA ALEGRE.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.582107",
+        "longitude": "-61.017192",
+        "atividade": "PASTAGEM",
+        "area_lic": 10,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-03",
+        "n_auto": 50,
+        "proces_sei": "18201.010568/2022.51"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4588",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.750674,
+          4.025325
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL 30 (GLEBA EREU)",
+        "endereco": "VICINAL 30 (GLEBA EREU)",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "4.025325",
+        "longitude": "-61.750674",
+        "atividade": "PASTAGEM/RESTOS DE EXPLORAÇÃO",
+        "area_lic": 50,
+        "data_f": "2023-03-31",
+        "data_i": "2023-03-02",
+        "n_auto": 254,
+        "proces_sei": "18201.001348/2023.18"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4587",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.291767,
+          0.55114
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SANTO ANTONIO",
+        "endereco": "VICINAL 16, GLEBA EQUADOR, ZONA RURAL.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.55114",
+        "longitude": "-60.291767",
+        "atividade": "PASTAGEM",
+        "area_lic": 192.9209,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 114,
+        "proces_sei": "18201.000547/2023.17"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.385059,
+          1.250635
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "RR-170, GLEBA BARAUANA",
+        "endereco": "RR-170, GLEBA BARAUANA",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.250635",
+        "longitude": "-60.385059",
+        "atividade": "PASTAGEM",
+        "area_lic": 9,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 278,
+        "proces_sei": "18201.001532/2023.68"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.836716,
+          1.704789
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA PARAISO DO SOL",
+        "endereco": "GLEBA BARAUANA, ZONA RURAL.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.704789",
+        "longitude": "-60.836716",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 120,
+        "data_f": "2023-03-31",
+        "data_i": "2023-02-03",
+        "n_auto": 122,
+        "proces_sei": "18201.008218/2022.25"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4584",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.032019,
+          1.266603
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO ALTO ALEGRE.",
+        "endereco": "LOTE N°74, VICINAL 02, P.A SERRA DOURADA, GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.2666027777777777",
+        "longitude": "-60.032019444444444",
+        "atividade": "PASTAGEM",
+        "area_lic": 31.9593,
+        "data_f": "2023-03-31",
+        "data_i": "2023-08-09",
+        "n_auto": 185,
+        "proces_sei": "18201.000971/2023.53"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4583",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.764101,
+          2.203696
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA ARAÇA.",
+        "endereco": "VICINAL 14, KM 45, GLEBA - CARACARAÍ/ZONA RURAL.",
+        "municip": "IRACEMA",
+        "instituto": "FEMARH",
+        "latitude": "2.203696",
+        "longitude": "-61.764101",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 175,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 539,
+        "proces_sei": "18201.000167/2023.74"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4582",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1974,
+          2.419017
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA CORAL 03.",
+        "endereco": "ESTRADA VICINAL 02 DO ROXINHO, KM 12, GLEBA - CARACARAÍ.",
+        "municip": "MUCAJAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.419016666666667",
+        "longitude": "-61.1974",
+        "atividade": "PASTAGEM",
+        "area_lic": 32.4752,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 618,
+        "proces_sei": "18201.000173/2023.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4581",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.650079,
+          0.731222
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL 06, LOTE 71, GLEBA BRANQUINHO.",
+        "endereco": "VICINAL 06, LOTE 71, GLEBA BRANQUINHO.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.731222",
+        "longitude": "-59.650079",
+        "atividade": "PASTAGEM",
+        "area_lic": 30.1109,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 238,
+        "proces_sei": "18201.001228/2023.11"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4580",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.648266,
+          0.734849
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO GOIAS.",
+        "endereco": "VICINAL 06, GLEBA BRANQUINHO, LOTE 67.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.734849",
+        "longitude": "-59.648266",
+        "atividade": "PASTAGEM",
+        "area_lic": 44.0792,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 223,
+        "proces_sei": "18201.001163/2023.11"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-457f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.125151,
+          0.845924
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SITIO PARAÍSO",
+        "endereco": "VICINAL 22, LOTE 128, GLEBA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.845924",
+        "longitude": "-60.125151",
+        "atividade": "PASTAGEM",
+        "area_lic": 19.94,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 273,
+        "proces_sei": "18201.001439/2023.53"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-457e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.753056,
+          1.335
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL 21, KM 14, GLEBA NOVO PARAISO",
+        "endereco": "VICINAL 21, KM 14, GLEBA NOVO PARAISO",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.335",
+        "longitude": "-60.753055555555555",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 288.3096,
+        "data_f": "2024-01-01",
+        "data_i": "2023-12-11",
+        "n_auto": 759,
+        "proces_sei": "18201.009568/2023.90"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-457d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.607212,
+          3.907814
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA PORTEIRA DA MATA",
+        "endereco": "VICINAL, 02 PA - AMAJARÍ, ZONA RURAL, GLEBA TEPEQUÉM.",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.907814",
+        "longitude": "-61.607212",
+        "atividade": "PASTAGEM",
+        "area_lic": 39.47,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 107,
+        "proces_sei": "18201.000616/2023.84"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-457c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.854722,
+          0.554167
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA VITORIA",
+        "endereco": "RODOVIA CAB - 355, KM 43/ GLEBA - BRANQUINHO",
+        "municip": "SÃO JOÃO DA BALIZA",
+        "instituto": "FEMARH",
+        "latitude": "0.5541666666666667",
+        "longitude": "-59.85472222222222",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 77.02,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 42,
+        "proces_sei": "18201.010583/2022.08"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-457b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.60231,
+          1.628705
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "GLEBA BARAUANA, VIC. DO ITÃ.",
+        "endereco": "GLEBA BARAUANA, VIC. DO ITÃ.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.628705",
+        "longitude": "-60.60231",
+        "atividade": "PASTAGEM",
+        "area_lic": 208.4045,
+        "data_f": "2023-03-31",
+        "data_i": "2023-02-24",
+        "n_auto": 121,
+        "proces_sei": "18201.000638/2023.44"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-457a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.241899,
+          0.51226
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA PARAISO",
+        "endereco": "FAZENDA PARAISO, VICINAL 16, NOVA COLINA.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.51226",
+        "longitude": "-60.241899",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 256,
+        "data_f": "2023-01-31",
+        "data_i": "2023-01-19",
+        "n_auto": 63,
+        "proces_sei": "18201.000061/2023.71"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4579",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.743494,
+          -0.150275
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA JUNDIÁ III.",
+        "endereco": "FAZENDA JUNDIÁ III.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "-0.150275",
+        "longitude": "-60.743494",
+        "atividade": "PASTAGEM",
+        "area_lic": 360.919,
+        "data_f": "2024-01-01",
+        "data_i": "2023-12-11",
+        "n_auto": 758,
+        "proces_sei": "18201.009478/2023.07"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4578",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.702222,
+          3.851389
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "RANCHO MARIA DA CONCEIÇÃO",
+        "endereco": "VICINAL 01, PA AMAJARÍ/ ZONA RURAL.",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.851388888888889",
+        "longitude": "-61.702222222222225",
+        "atividade": "PASTAGEM/RESTOS DE EXPLORAÇÃO",
+        "area_lic": 4.4148,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-31",
+        "n_auto": 268,
+        "proces_sei": "18201.001432/2023.31"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4577",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.154787,
+          2.259179
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SERRA AZUL",
+        "endereco": "FAZENDA SERRA AZUL, GLEBA QUITAUAÚ",
+        "municip": "BONFIM",
+        "instituto": "FEMARH",
+        "latitude": "2.259179",
+        "longitude": "-60.154787",
+        "atividade": "PASTAGEM",
+        "area_lic": 100,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 98,
+        "proces_sei": "18201.000527/2023.38"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4576",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.893226,
+          -0.130013
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA FORMIGUEIRO, GLEBA PRETINHO, BR 431",
+        "endereco": "FAZENDA FORMIGUEIRO, GLEBA PRETINHO, BR 431",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "-0.130013",
+        "longitude": "-60.893226",
+        "atividade": "PASTAGEM",
+        "area_lic": 290,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 280,
+        "proces_sei": "18201.001577/2023.32"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4575",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.191777,
+          0.76922
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO SÃO JOSÉ",
+        "endereco": "VICINAL 22, LOTE 052, GLEBA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.76922",
+        "longitude": "-60.191777",
+        "atividade": "PASTAGEM",
+        "area_lic": 27.09,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 393,
+        "proces_sei": "18201.001971/2023.71"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4574",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.597373,
+          1.095705
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA BONANZA",
+        "endereco": "VICINAL 02/VICINAL 21, GLEBA - NOVO PARAISO.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.095705",
+        "longitude": "-60.597373",
+        "atividade": "PASTAGEM",
+        "area_lic": 77.7238,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 133,
+        "proces_sei": "18201.000599/2023.85"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.728817,
+          0.189054
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL RPO, GLEBA PRETINHO - ZONA RURAL.",
+        "endereco": "VICINAL RPO, GLEBA PRETINHO - ZONA RURAL.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.189054",
+        "longitude": "-60.728817",
+        "atividade": "PASTAGEM",
+        "area_lic": 276.85,
+        "data_f": "2023-08-30",
+        "data_i": "2023-08-21",
+        "n_auto": 431,
+        "proces_sei": "18201.002140/2023.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4572",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.190494,
+          2.943413
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": " FAZENDA MORADA NOVA 3",
+        "endereco": "KM 29 da RR- 206, SEGUE POR 13 KM SEM DENOMINAÇÃO.",
+        "municip": "BONFIM",
+        "instituto": "FEMARH",
+        "latitude": "2.943413",
+        "longitude": "-60.190494",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 303.67,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 583,
+        "proces_sei": "18201.000084/2023.85"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4571",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.690556,
+          3.846111
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL OURO FINO, KM 53 - ZONA RURAL",
+        "endereco": "VICINAL OURO FINO, KM 53 - ZONA RURAL",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.8461111111111115",
+        "longitude": "-61.690555555555555",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 155,
+        "data_f": "2023-03-31",
+        "data_i": "2023-02-09",
+        "n_auto": 129,
+        "proces_sei": "18201.000099/2023.43"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4570",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.97481,
+          1.540483
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "RANCHO SÃO JORGE",
+        "endereco": "BR 174 KM 582 GLEBA 210",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.540483",
+        "longitude": "-60.97481",
+        "atividade": "PASTAGEM",
+        "area_lic": 30,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 51,
+        "proces_sei": "18201.010545/2022.47"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-456f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.777835,
+          3.072839
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "ROD BR 174, GLEBA MURUPÚ",
+        "endereco": "ROD BR 174, GLEBA MURUPÚ",
+        "municip": "BOA VISTA",
+        "instituto": "FEMARH",
+        "latitude": "3.072839",
+        "longitude": "-60.777835",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 538.0347,
+        "data_f": "2023-03-31",
+        "data_i": "2023-03-06",
+        "n_auto": 256,
+        "proces_sei": "18201.001347/2023.73"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-456e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.681786,
+          2.436142
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA VOLTA REDONDA",
+        "endereco": "FAZENDA VOLTA REDONDA, GLEBA QUITAUAÚ.",
+        "municip": "CANTÁ",
+        "instituto": "FEMARH",
+        "latitude": "2.436142",
+        "longitude": "-60.681786",
+        "atividade": "PASTAGEM",
+        "area_lic": 150,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 239,
+        "proces_sei": "18201.001224/2023.32"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-456d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.833473,
+          2.217855
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA CARIDADE",
+        "endereco": "FAZENDA CARIDADE, ZONA RURAL - GLEBA CARACARAÍ.",
+        "municip": "IRACEMA",
+        "instituto": "FEMARH",
+        "latitude": "2.217855",
+        "longitude": "-61.833473",
+        "atividade": "PASTAGEM",
+        "area_lic": 247.9302,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 241,
+        "proces_sei": "18201.000860/2023.47"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-456c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.470595,
+          0.836484
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SITIO NASCIMENTO",
+        "endereco": "VICINAL 09, LOTE 09, PAD ANAUÁ.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.836484",
+        "longitude": "-60.470595",
+        "atividade": "PASTAGEM",
+        "area_lic": 28.92,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 411,
+        "proces_sei": "18201.002303/2023.61"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-456b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.225311,
+          2.712024
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA PARAÍZO, KM 03, GLEBA CAUAMÉ.",
+        "endereco": "FAZENDA PARAÍZO, KM 03, GLEBA CAUAMÉ.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "2.712024",
+        "longitude": "-61.225311",
+        "atividade": "PASTAGEM",
+        "area_lic": 105.61,
+        "data_f": "2023-04-30",
+        "data_i": "2023-04-13",
+        "n_auto": 418,
+        "proces_sei": "18201.002244/2023.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-456a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.502314,
+          2.044378
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA BOM JESUS",
+        "endereco": "GLEBA BARAUANA - ZONA RURAL",
+        "municip": "CANTÁ",
+        "instituto": "FEMARH",
+        "latitude": "2.0443777777777776",
+        "longitude": "-60.50231388888889",
+        "atividade": "PASTAGEM",
+        "area_lic": 327.74,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 436,
+        "proces_sei": "18201.002410/2023.99"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4569",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.049684,
+          1.267666
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA CARIDADE",
+        "endereco": "VICINAL 01, LOTE 83, GLEBA BARAUANA",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.267666",
+        "longitude": "-60.049684",
+        "atividade": "PASTAGEM",
+        "area_lic": 15.29,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 335,
+        "proces_sei": "18201.001818/2023.43"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4568",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.066131,
+          1.268274
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO VALE VERDE",
+        "endereco": "LOTE 112, VICINAL 08, PA - SERRA DOURADO, GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.268274",
+        "longitude": "-60.066131",
+        "atividade": "PASTAGEM",
+        "area_lic": 18.06,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 333,
+        "proces_sei": "18201.001817/2023.07"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4567",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.146552,
+          1.661478
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA NOVA ESPERANÇA",
+        "endereco": "VICINAL 31, SENTIDO BR 432, GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.661478",
+        "longitude": "-60.146552",
+        "atividade": "PASTAGEM",
+        "area_lic": 290,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 178,
+        "proces_sei": "18201.000984/2023.22"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4566",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.033228,
+          1.269
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO SERRA AZUL.",
+        "endereco": "VICINAL 01, LOTE 76, GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.2690000000000001",
+        "longitude": "-60.033227777777775",
+        "atividade": "PASTAGEM",
+        "area_lic": 40,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 195,
+        "proces_sei": "18201.000975/2023.31"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4565",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.098494,
+          1.000533
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL 01, LOTE 71, P.A SERRA DOURADA, GLEBA BARAUANA",
+        "endereco": "VICINAL 01, LOTE 71, P.A SERRA DOURADA, GLEBA BARAUANA",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.0005333333333333",
+        "longitude": "-60.09849444444444",
+        "atividade": "PASTAGEM",
+        "area_lic": 24.66,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 398,
+        "proces_sei": "18201.002045/2023.12"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4564",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.34654,
+          1.949456
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL 02, VILA SÃO JOSÉ, KM 2,6, GLEBA - CARACARAÍ.",
+        "endereco": "VICINAL 02, VILA SÃO JOSÉ, KM 2,6, GLEBA - CARACARAÍ.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.949456",
+        "longitude": "-61.34654",
+        "atividade": "PASTAGEM",
+        "area_lic": 90.9,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 145,
+        "proces_sei": "18201.000780/2023.91"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4563",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.854143,
+          2.387488
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA ÁGUA LINDA, GLEBA CARACARAÍ.",
+        "endereco": "FAZENDA ÁGUA LINDA, GLEBA CARACARAÍ.",
+        "municip": "MUCAJAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.387488",
+        "longitude": "-61.854143",
+        "atividade": "PASTAGEM",
+        "area_lic": 131.1903,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 221,
+        "proces_sei": "18201.000632/2023.77"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4562",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.209668,
+          0.889415
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL 18, GLEBA JAUAPERÍ.",
+        "endereco": "VICINAL 18, GLEBA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.889415",
+        "longitude": "-60.209668",
+        "atividade": "PASTAGEM",
+        "area_lic": 29.13,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 312,
+        "proces_sei": "18201.001811/2023.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4561",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.046366,
+          1.257722
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO 21 DE AGOSTO",
+        "endereco": "VICINAL 01, LOTE 75, KM 2, GLEBA BARAUANA",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.257722",
+        "longitude": "-60.046366",
+        "atividade": "PASTAGEM",
+        "area_lic": 21.01,
+        "data_f": "2023-03-31",
+        "data_i": "2023-02-27",
+        "n_auto": 196,
+        "proces_sei": "18201.000969/2023.84"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4560",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.503594,
+          1.099367
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA LEÃO DE JUDÁ",
+        "endereco": "TRAVESSÃO DA VICINAL 07, KM 4,2, GLEBA BALIZA.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.099367",
+        "longitude": "-59.503594",
+        "atividade": "PASTAGEM",
+        "area_lic": 72.74,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 219,
+        "proces_sei": "18201.001061/2023.98"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-455f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.047603,
+          1.086494
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO DUAS IRMÃS",
+        "endereco": "SÍTIO DUAS IRMÃS, VICINAL 21-B, GLEBA BALIZA.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "1.086494",
+        "longitude": "-60.047603",
+        "atividade": "PASTAGEM",
+        "area_lic": 30.88,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 269,
+        "proces_sei": "18201.001393/2023.72"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-455e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.375905,
+          1.93362
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SANTO ANTÔNIO",
+        "endereco": "BR 432, VICINAL 17, CONFIANÇA 3 - ZONA RURAL.",
+        "municip": "CANTÁ",
+        "instituto": "FEMARH",
+        "latitude": "1.93362",
+        "longitude": "-60.375905",
+        "atividade": "PASTAGEM",
+        "area_lic": 316.7925,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 290,
+        "proces_sei": "18201.001719/2023.61"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-455d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.255632,
+          0.52625
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA VILA RICA",
+        "endereco": "VICINAL 16, NOVA COLINA.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.52625",
+        "longitude": "-60.255632",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 282,
+        "data_f": "2023-01-31",
+        "data_i": "2023-01-16",
+        "n_auto": 6,
+        "proces_sei": "18201.000064/2023.12"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-455c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.645457,
+          1.249808
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA NOVO PARAÍSO.",
+        "endereco": "FAZENDA NOVO PARAÍSO, GLEBA NOVO PARAÍSO.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.2498079305555556",
+        "longitude": "-60.645456930555554",
+        "atividade": "PASTAGEM",
+        "area_lic": 149,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 215,
+        "proces_sei": "18201.001147/2023.11"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-455b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.313775,
+          1.156462
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA GUTIERREZ",
+        "endereco": "GLEBA BALIZA, ZONA RURAL",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.156462",
+        "longitude": "-59.313775",
+        "atividade": "PASTAGEM",
+        "area_lic": 185.78,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 216,
+        "proces_sei": "18201.000947/2023.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-455a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.954136,
+          3.875492
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA TARUMÃ, VICINAL PARAISO, KM 30 , S/N ZONA RURAL",
+        "endereco": "FAZENDA TARUMÃ, VICINAL PARAISO, KM 30 , S/N ZONA RURAL",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.875492",
+        "longitude": "-61.954136",
+        "atividade": "PASTAGEM/RESTOS DE EXPLORAÇÃO",
+        "area_lic": 136.42,
+        "data_f": "2023-01-31",
+        "data_i": "2023-08-09",
+        "n_auto": 61,
+        "proces_sei": "18201.000139/2023.57"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4559",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5075,
+          2.932222
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL 13, SÃO PAULO, GLEBA CAUAMÉ.",
+        "endereco": "VICINAL 13, SÃO PAULO, GLEBA CAUAMÉ.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "2.9322222222222223",
+        "longitude": "-61.5075",
+        "atividade": "PASTAGEM",
+        "area_lic": 33.6655,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 282,
+        "proces_sei": "18201.001605/2023.11"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4558",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.053397,
+          1.161861
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO TOSCANA",
+        "endereco": "BOM SUCESSO GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.161861",
+        "longitude": "-60.053397",
+        "atividade": "PASTAGEM",
+        "area_lic": 36.13,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 264,
+        "proces_sei": "18201.001398/2023.03"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4557",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.824037,
+          2.286123
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA RIO JAGUARIBE",
+        "endereco": "GLEBA CARACARAÍ.",
+        "municip": "IRACEMA",
+        "instituto": "FEMARH",
+        "latitude": "2.286123",
+        "longitude": "-61.824037",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 291.201,
+        "data_f": "2023-04-30",
+        "data_i": "2023-04-10",
+        "n_auto": 422,
+        "proces_sei": "18201.002212/2023.25"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4556",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.738915,
+          3.047042
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "LOCALIZADA NA VICINAL 16, LOTE 259, PA PAREDÃO, GLEBA CAUAMÉ",
+        "endereco": "LOCALIZADA NA VICINAL 16, LOTE 259, PA PAREDÃO, GLEBA CAUAMÉ",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "3.047042",
+        "longitude": "-61.738915",
+        "atividade": "PASTAGEM",
+        "area_lic": 12.8449,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 287,
+        "proces_sei": "18201.001690/2023.18"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4555",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.198619,
+          2.826688
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "RR 343, REGIÃO SÃO SILVESTRE,GLEBA CAUAMÉ-RR",
+        "endereco": "RR 343, REGIÃO SÃO SILVESTRE,GLEBA CAUAMÉ-RR",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "2.826688",
+        "longitude": "-61.198619",
+        "atividade": "PASTAGEM",
+        "area_lic": 391.45,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 58,
+        "proces_sei": "18201.010529/2022.54"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4554",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.267778,
+          3.0875
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA MODELO, VIC. GUARANI, KM 04, GLEBA CAUAMÉ.",
+        "endereco": "FAZENDA MODELO, VIC. GUARANI, KM 04, GLEBA CAUAMÉ.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "3.0875000000000004",
+        "longitude": "-61.26777777777777",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 9.5,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 449,
+        "proces_sei": "18201.002456/2023.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4553",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.943108,
+          0.921689
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO OLIVEIRA.",
+        "endereco": "VICINAL 26, LOTE 588.",
+        "municip": "SÃO JOÃO DA BALIZA",
+        "instituto": "FEMARH",
+        "latitude": "0.9216888888888889",
+        "longitude": "-59.943108333333335",
+        "atividade": "PASTAGEM",
+        "area_lic": 43.29,
+        "data_f": "2023-03-31",
+        "data_i": "2023-08-09",
+        "n_auto": 189,
+        "proces_sei": "18201.000973/2023.42"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4552",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.938953,
+          0.923614
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO ALTO PARANÁ.",
+        "endereco": "VICINAL 26, LOTE 587.",
+        "municip": "SÃO JOÃO DA BALIZA",
+        "instituto": "FEMARH",
+        "latitude": "0.923614",
+        "longitude": "-59.938953",
+        "atividade": "PASTAGEM",
+        "area_lic": 46.58,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 189,
+        "proces_sei": "18201.000974/2023.97"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4551",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.082636,
+          0.807872
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO SÃO JOSÉ.",
+        "endereco": "VICINAL 26, LOTE 639, SÍTIO SÃO JOSÉ, GLEBA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.8078722222222222",
+        "longitude": "-60.082636111111114",
+        "atividade": "PASTAGEM",
+        "area_lic": 44.6,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 209,
+        "proces_sei": "18201.000980/2023.44"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4550",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.077303,
+          0.811958
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO BOM JESUS.",
+        "endereco": "VICINAL 26, LOTE 637, GLEBA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.8119583333333333",
+        "longitude": "-60.07730277777778",
+        "atividade": "PASTAGEM",
+        "area_lic": 38.9259,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 211,
+        "proces_sei": "18201.000981/2023.99"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-454f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.083589,
+          0.802636
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO FAZENDA.",
+        "endereco": "VICINAL 26, LOTE 640 E 641, GLEBA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.802636",
+        "longitude": "-60.083589",
+        "atividade": "PASTAGEM",
+        "area_lic": 57.39,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 208,
+        "proces_sei": "18201.000979/2023.10"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-454e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0802,
+          0.8104
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO SÃO FRANCISCO.",
+        "endereco": "VICINAL 26, LOTE 638, GLEBA JAUAPERI.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.8104",
+        "longitude": "-60.0802",
+        "atividade": "PASTAGEM",
+        "area_lic": 45.09,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 189,
+        "proces_sei": "18201.000972/2023.06"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-454d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.413303,
+          0.254775
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA INDIAPORÃ",
+        "endereco": "GLEBA EQUADOR, ZONA RURAL.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.254775",
+        "longitude": "-60.413303",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 40,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 277,
+        "proces_sei": "18201.001542/2023.01"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-454c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.059696,
+          1.372759
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA AMIZADE",
+        "endereco": "FAZENDA AMIZADE, VICINAL 21, GLEBA BARAUANA",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "1.372759",
+        "longitude": "-60.059696",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 120,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 225,
+        "proces_sei": "18201.001206/2023.51"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-454b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.221043,
+          0.494321
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA DOIS CORAÇÕES",
+        "endereco": "VICINAL 16, GLEBA EQUADOR.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.494321",
+        "longitude": "-60.221043",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 275,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 531,
+        "proces_sei": "18201.000063/2023.60"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-454a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.13,
+          2.905556
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SITIO PARAISO",
+        "endereco": "VICINAL SÃO RAIMUNDO, KM 11, VILA SÃO SILVESTRE - GLEBA CAUAMÉ.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "2.9055555555555554",
+        "longitude": "-61.13",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 155.2507,
+        "data_f": "2023-08-21",
+        "data_i": "2023-02-21",
+        "n_auto": 57,
+        "proces_sei": "18201.010540/2022.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4549",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.260102,
+          1.803105
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "GLEBA BARAUANA",
+        "endereco": "GLEBA BARAUANA",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.803105",
+        "longitude": "-60.260102",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 180.2678,
+        "data_f": "2023-01-27",
+        "data_i": "2023-01-19",
+        "n_auto": 39,
+        "proces_sei": "18201.010581/2022.19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4548",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.489594,
+          1.064795
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA JATUARANA",
+        "endereco": "VICINAL CCI KM 28, GLEBA BALIZA",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.064795",
+        "longitude": "-59.489594",
+        "atividade": "PASTAGEM",
+        "area_lic": 276.9002,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-11",
+        "n_auto": 757,
+        "proces_sei": "18201.009573/2023.01"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4547",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.085365,
+          2.60075
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "KM 33 DA BR 22, GLEBA CARACARAÍ",
+        "endereco": "KM 33 DA BR 22, GLEBA CARACARAÍ",
+        "municip": "MUCAJAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.60075",
+        "longitude": "-61.085365",
+        "atividade": "PASTAGEM",
+        "area_lic": 274.1376,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 373,
+        "proces_sei": "18201.001901/2023.12"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4546",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.089341,
+          0.798603
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO SÃO JOÃO.",
+        "endereco": "VICINAL 26, LOTE 642, GLEBA JAUAPERI.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.798603",
+        "longitude": "-60.089341",
+        "atividade": "PASTAGEM",
+        "area_lic": 29.43,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 189,
+        "proces_sei": "18201.000976/2023.86"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4545",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.091111,
+          0.793724
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO SANTA ROSA.",
+        "endereco": "VICINAL 26, LOTE 643, GLEBA JAUAPERI.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.793724",
+        "longitude": "-60.091111",
+        "atividade": "PASTAGEM",
+        "area_lic": 19.4973,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 189,
+        "proces_sei": "18201.000978/2023.75"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4544",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.606264,
+          0.671908
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO CURUTIBA.",
+        "endereco": "VICINAL 10, KM 19,6, LOTE 216 GLEBA BRANQUINHO, PA-JATAPÚ.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.6719083333333333",
+        "longitude": "-59.60626388888889",
+        "atividade": "PASTAGEM",
+        "area_lic": 28.7406,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 288,
+        "proces_sei": "18201.000538/2023.18"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4543",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.600169,
+          0.680792
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO UBERLÂNDIA",
+        "endereco": "VICINAL 10, KM 18, LOTE 208 GLEBA BRANQUINHO, PA-JATAPÚ",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.6807916666666666",
+        "longitude": "-59.60016944444445",
+        "atividade": "PASTAGEM",
+        "area_lic": 29.59,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 100,
+        "proces_sei": "18201.000533/2023.95"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4542",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.601606,
+          0.678439
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO UBERABA.",
+        "endereco": "VICINAL 10, KM 18,7, LOTE 210, GLEBA BRANQUINHO, PA-JATAPÚ.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.6784388888888889",
+        "longitude": "-59.60160555555556",
+        "atividade": "PASTAGEM",
+        "area_lic": 33.91,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 101,
+        "proces_sei": "18201.000534/2023.30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4541",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.602997,
+          0.676169
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SITIO APUCARANA",
+        "endereco": "VICINAL 10, KM 19 LOTE 212, GLEBA PA - BRANQUINHO, P.A JATAPU.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.6761694444444444",
+        "longitude": "-59.60299722222222",
+        "atividade": "PASTAGEM",
+        "area_lic": 33.3928,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 144,
+        "proces_sei": "18201.000539/2023.62"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4540",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.604672,
+          0.674017
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO MARILÂNDIA.",
+        "endereco": "VICINAL 10, KM 19,3 LOTE 214, GLEBA BRANQUINHO, PA-JATAPÚ.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.6740166666666667",
+        "longitude": "-59.60467222222222",
+        "atividade": "PASTAGEM",
+        "area_lic": 30.6,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 106,
+        "proces_sei": "18201.000536/2023.29"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-453f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.606264,
+          0.671908
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO CURITIBA.",
+        "endereco": "VICINAL 10, KM 19,6, LOTE 216 GLEBA BRANQUINHO, PA-JATAPÚ.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.6719083333333333",
+        "longitude": "-59.60626388888889",
+        "atividade": "PASTAGEM",
+        "area_lic": 20.387,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 288,
+        "proces_sei": "18201.000538/2023.18"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-453e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.441939,
+          2.874172
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "RODOVIA RR 325, KM 107, GLEBA ALTO ALEGRE.",
+        "endereco": "RODOVIA RR 325, KM 107, GLEBA ALTO ALEGRE.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "2.874172222222222",
+        "longitude": "-61.44193888888889",
+        "atividade": "PASTAGEM",
+        "area_lic": 76.8045,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-15",
+        "n_auto": 802,
+        "proces_sei": "18201.009745/2023.38"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-453d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.409355,
+          1.691997
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO SÃO JOSÉ.",
+        "endereco": "PA - RR 170 NOVO PARAÍSO, LOTE 291 GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.691997",
+        "longitude": "-60.409355",
+        "atividade": "PASTAGEM",
+        "area_lic": 8,
+        "data_f": "2024-01-09",
+        "data_i": "2023-01-15",
+        "n_auto": 803,
+        "proces_sei": "18201.009695/2023.99"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-453c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.737746,
+          1.714026
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA CHICO BENTO",
+        "endereco": "FAZENDA CHICO BENTO, VICINAL 09, GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.714026",
+        "longitude": "-60.737746",
+        "atividade": "PASTAGEM",
+        "area_lic": 33.08,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 157,
+        "proces_sei": "18201.000667/2023.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-453b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.415254,
+          0.244268
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA INDIAPORÃ",
+        "endereco": "GLEBA EQUADOR, ZONA RURAL.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.24426791666666667",
+        "longitude": "-60.41525388888889",
+        "atividade": "PASTAGEM",
+        "area_lic": 30,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 265,
+        "proces_sei": "18201.001410/2023.71"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-453a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.046147,
+          2.087261
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA RIO MAR",
+        "endereco": "GLEBA TACUTÚ.",
+        "municip": "BONFIM",
+        "instituto": "FEMARH",
+        "latitude": "2.0872611111111112",
+        "longitude": "-60.046147222222224",
+        "atividade": "PASTAGEM",
+        "area_lic": 149.3804,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 255,
+        "proces_sei": "18201.001356/2023.64"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4539",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.165667,
+          0.857519
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO AZUL",
+        "endereco": "VICINAL 20, LOTE 321, GLEBA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.8575194444444444",
+        "longitude": "-60.16566666666667",
+        "atividade": "PASTAGEM",
+        "area_lic": 26.57,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 342,
+        "proces_sei": "18201.001806/2023.19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4538",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.420774,
+          1.294103
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA TUCURUÍ",
+        "endereco": "ZONA RURAL, GLEBA BR 210.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.294103",
+        "longitude": "-60.420774",
+        "atividade": "PASTAGEM",
+        "area_lic": 286.55,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 102,
+        "proces_sei": "18201.000517/2023.01"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4537",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.672728,
+          2.313994
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA BEZERRA",
+        "endereco": "BR 432, GLEBA BARAUANA.",
+        "municip": "CANTÁ",
+        "instituto": "FEMARH",
+        "latitude": "2.3139944444444445",
+        "longitude": "-60.67272777777778",
+        "atividade": "PASTAGEM",
+        "area_lic": 28.51,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 368,
+        "proces_sei": "18201.001995/2023.20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4536",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.42,
+          1.304444
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA NOSSA SENHORA DA PAZ",
+        "endereco": "FAZENDA NOSSA SENHORA DA PAZ, GLEBA BR - 210, ZONA RURAL.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.3044444444444445",
+        "longitude": "-60.419999999999995",
+        "atividade": "PASTAGEM",
+        "area_lic": 288.14,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 226,
+        "proces_sei": "18201.000518/2023.47"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.763681,
+          2.200894
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA AJURICABA",
+        "endereco": "ESTRADA VICINAL 14, KM 45 S/N GLEBA CARACARAÍ",
+        "municip": "IRACEMA",
+        "instituto": "FEMARH",
+        "latitude": "2.200894",
+        "longitude": "-61.763681",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 203.09,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 64,
+        "proces_sei": "18201.000160/2023.52"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4534",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.413463,
+          1.111066
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA CHAPÉU PRETO",
+        "endereco": "TRAVESSÃO 07, KM 12 ZONA RURAL",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.111066",
+        "longitude": "-59.413463",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 263.06,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 143,
+        "proces_sei": "18201.000796/2023.02"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4533",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.959092,
+          1.431736
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA BAIXA VERDE",
+        "endereco": "VICINAL 01, ZONA RURAL, GLEBA BARAUANA",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.431736",
+        "longitude": "-59.959092",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 189.638,
+        "data_f": "2023-03-31",
+        "data_i": "2023-02-14",
+        "n_auto": 70,
+        "proces_sei": "18201.010654/2022.64"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4532",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.720141,
+          3.835859
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA GALILÉIA",
+        "endereco": "VICINAL 01, ZONA RURAL",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.835859",
+        "longitude": "-61.720141",
+        "atividade": "PASTAGEM/RESTOS DE EXPLORAÇÃO",
+        "area_lic": 108.2038,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-07",
+        "n_auto": 270,
+        "proces_sei": "18201.001440/2023.88"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4531",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.395543,
+          1.934142
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA COLÍRIO, GLEBA BARAUANA.",
+        "endereco": "FAZENDA COLÍRIO, GLEBA BARAUANA.",
+        "municip": "CANTÁ",
+        "instituto": "FEMARH",
+        "latitude": "1.934142",
+        "longitude": "-60.395543",
+        "atividade": "PASTAGEM",
+        "area_lic": 196.04,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 146,
+        "proces_sei": "18201.000644/2023.00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4530",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.544262,
+          1.039124
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "RUA TRAVESSA DOS MACUXIS, 3643, BAIRRO EQUADOR.",
+        "endereco": "RUA TRAVESSA DOS MACUXIS, 3643, BAIRRO EQUADOR.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.039124",
+        "longitude": "-60.544262",
+        "atividade": "PASTAGEM",
+        "area_lic": 92.5622,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 345,
+        "proces_sei": "18201.001874/2023.88"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-452f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.413227,
+          1.307289
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA OURO VERDE",
+        "endereco": "ZONA RURAL, GLEBA CR 210 2.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.307289",
+        "longitude": "-60.413227",
+        "atividade": "PASTAGEM",
+        "area_lic": 294.15,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 99,
+        "proces_sei": "18201.000520/2023.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-452e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.882056,
+          0.879211
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA BOA ESPERANÇA",
+        "endereco": "VICINAL 30, KM 08, LOTE 914 - GLEBA JAUAPERÍ.",
+        "municip": "SÃO JOÃO DA BALIZA",
+        "instituto": "FEMARH",
+        "latitude": "0.8792111111111112",
+        "longitude": "-59.88205555555555",
+        "atividade": "PASTAGEM",
+        "area_lic": 17,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 207,
+        "proces_sei": "18201.000472/2023.66"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-452d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.857354,
+          2.372898
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL DA CACHOEIRINHA, KM 5/7 GLEBA - CARACARAÍ",
+        "endereco": "VICINAL DA CACHOEIRINHA, KM 5/7 GLEBA - CARACARAÍ",
+        "municip": "MUCAJAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.372898",
+        "longitude": "-60.857354",
+        "atividade": "PASTAGEM",
+        "area_lic": 20,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 318,
+        "proces_sei": "18201.001873/2023.33"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-452c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.488491,
+          0.179418
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA RICÃO BONITO",
+        "endereco": "ESTRADA DA VICINAL ARARA VERMELHA, KM 06, GLEBA EQUADOR.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.179418",
+        "longitude": "-60.488491",
+        "atividade": "PASTAGEM",
+        "area_lic": 276.1924,
+        "data_f": "2023-01-31",
+        "data_i": "2023-01-19",
+        "n_auto": 67,
+        "proces_sei": "18201.000118/2023.31"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-452b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.028875,
+          1.352424
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA ZYON NOAH",
+        "endereco": "ACESSO A BR 174/210, VICINAL CCI - 01, REGIÃO DA SERRA DOURADA, GLEBA - BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.352424",
+        "longitude": "-60.028875",
+        "atividade": "PASTAGEM",
+        "area_lic": 179.24,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 137,
+        "proces_sei": "18201.000675/2023.52"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-452a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.922184,
+          0.821687
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO CACHOEIRA",
+        "endereco": "VICINAL 30, KM 15 ZONA RURAL, LOTE 1367/GLEBA JAUAPERI.",
+        "municip": "SÃO JOÃO DA BALIZA",
+        "instituto": "FEMARH",
+        "latitude": "0.821687",
+        "longitude": "-59.922184",
+        "atividade": "PASTAGEM",
+        "area_lic": 15.47,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 263,
+        "proces_sei": "18201.001395/2023.61"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4529",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.469351,
+          0.519844
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SUCURÍ",
+        "endereco": "FAZENDA SUCURÍ, GLEBA JAUAPERÍ.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.519844",
+        "longitude": "-60.469351",
+        "atividade": "PASTAGEM",
+        "area_lic": 61.84,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 415,
+        "proces_sei": "18201.002129/2023.56"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.14942,
+          0.971865
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO BOA ESPERANÇA",
+        "endereco": "SITIO BOA ESPERANÇA, VICINAL 18, LOTE 171, GLEBA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.971865",
+        "longitude": "-60.14942",
+        "atividade": "PASTAGEM",
+        "area_lic": 21.02,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 394,
+        "proces_sei": "18201.001986/2023.39"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4527",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.157294,
+          0.763213
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO SANTA RITA, TRAVESSAO II, GLEGA JAUAPERÍ.",
+        "endereco": "SÍTIO SANTA RITA, TRAVESSAO II, GLEGA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.763213",
+        "longitude": "-60.157294",
+        "atividade": "PASTAGEM",
+        "area_lic": 25.21,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 309,
+        "proces_sei": "18201.001810/2023.87"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4526",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.156773,
+          0.766776
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO MARANHÃO.",
+        "endereco": "VICINAL 22 TRAVESSÃO 2, LOTE 173, GLEGA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.766776",
+        "longitude": "-60.156773",
+        "atividade": "PASTAGEM",
+        "area_lic": 31.15,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 313,
+        "proces_sei": "18201.001809/2023.52"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4525",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.171792,
+          0.858133
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO AZUL.",
+        "endereco": "VICINAL 20, LOTE 320, GLEBA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.858133",
+        "longitude": "-60.171792",
+        "atividade": "PASTAGEM",
+        "area_lic": 46.64,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 348,
+        "proces_sei": "18201.001807/2023.63"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4524",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.037422,
+          1.277792
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO NOVA ESPERANÇA.",
+        "endereco": "SÍTIO NOVA ESPERANÇA, VICINAL 01, LOTE 82, P.A SERRA DOURADA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.2777916666666667",
+        "longitude": "-60.03742222222222",
+        "atividade": "PASTAGEM",
+        "area_lic": 32.1226,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 297,
+        "proces_sei": "18201.001748/2023.23"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4523",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.203519,
+          2.452456
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA PONTA DA SERRA.",
+        "endereco": "VICINAL 02, CONFIANÇA 3, BR-432, GLEBA - BARAUANA.",
+        "municip": "CANTÁ",
+        "instituto": "FEMARH",
+        "latitude": "2.4524555555555554",
+        "longitude": "-60.203519444444446",
+        "atividade": "PASTAGEM",
+        "area_lic": 90,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 139,
+        "proces_sei": "18201.000695/2023.23"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4522",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.496314,
+          1.125397
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA DOIS IRMÃOS",
+        "endereco": "KM 10, TRAVESSÃO DA VICIAL07, GLEBA BALIZA.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.1253972222222222",
+        "longitude": "-59.49631388888889",
+        "atividade": "PASTAGEM",
+        "area_lic": 10,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 142,
+        "proces_sei": "18201.000792/2023.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4521",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.381667,
+          0.802778
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SITIO DEUS É PAI",
+        "endereco": "BR 210, LOTE 423, GLEBA BALIZA.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.8027777777777778",
+        "longitude": "-59.38166666666667",
+        "atividade": "PASTAGEM",
+        "area_lic": 51.69,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 408,
+        "proces_sei": "18201.001928/2023.13"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4520",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.774969,
+          2.095619
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA VISTA ALEGRE",
+        "endereco": "FAZENDA VISTA ALEGRE, GLEBA CARACARAÍ.",
+        "municip": "IRACEMA",
+        "instituto": "FEMARH",
+        "latitude": "2.095619",
+        "longitude": "-61.774969",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 197.3882,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 187,
+        "proces_sei": "18201.001050/2023.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-451f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.2925,
+          1.377778
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "BR 432, KM 93, GLEBA BARAUANA, S/N, ZONA RURAL.",
+        "endereco": "BR 432, KM 93, GLEBA BARAUANA, S/N, ZONA RURAL.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.3777777777777778",
+        "longitude": "-60.2925",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 188.2745,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 275,
+        "proces_sei": "18201.001492/2023.54"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-451e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.387886,
+          0.799022
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SITIO TRÊS SENTIDOS",
+        "endereco": "BR 210, KM 132, LOTE422, GLEBA BALIZA",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.799022",
+        "longitude": "-59.387886",
+        "atividade": "PASTAGEM",
+        "area_lic": 34.01,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 409,
+        "proces_sei": "18201.001933/2023.18"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-451d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.908322,
+          0.564342
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA DOIS IRMÃOS ",
+        "endereco": "VICINAL 02, KM 44, GLEBA BRANQUINHO.",
+        "municip": "SÃO JOÃO DA BALIZA",
+        "instituto": "FEMARH",
+        "latitude": "0.564342",
+        "longitude": "-59.908322",
+        "atividade": "PASTAGEM",
+        "area_lic": 16.51,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 414,
+        "proces_sei": "18201.002137/2023.01"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-451c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.415409,
+          0.445815
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SALVA VIDAS ",
+        "endereco": "BR 174 - KM 157, GLEBA NOVO EQUADOR.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.445815",
+        "longitude": "-60.415409",
+        "atividade": "PASTAGEM",
+        "area_lic": 94.11,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 294,
+        "proces_sei": "18201.001788/2023.75"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-451b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.538738,
+          0.476458
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SÃO MARCOS",
+        "endereco": "BR 174, KM 56, SN, GLEBA PRETINHO",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.4764580555555556",
+        "longitude": "-60.538737777777776",
+        "atividade": "PASTAGEM",
+        "area_lic": 353.883,
+        "data_f": "2023-04-30",
+        "data_i": "2023-04-06",
+        "n_auto": 25,
+        "proces_sei": "18201.010048/2022.49"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-451a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.689167,
+          2.490556
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL 01, LOTE 154, GLEBA QUITAUAÚ.",
+        "endereco": "VICINAL 01, LOTE 154, GLEBA QUITAUAÚ.",
+        "municip": "CANTÁ",
+        "instituto": "FEMARH",
+        "latitude": "2.4905555555555554",
+        "longitude": "-60.689166666666665",
+        "atividade": "PASTAGEM",
+        "area_lic": 15,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 307,
+        "proces_sei": "18201.001782/2023.06"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4519",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.615742,
+          2.532825
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "LOTE 03, GLEBA QUITAUAÚ",
+        "endereco": "LOTE 03, GLEBA QUITAUAÚ",
+        "municip": "CANTÁ",
+        "instituto": "FEMARH",
+        "latitude": "2.532825",
+        "longitude": "-60.615742",
+        "atividade": "PASTAGEM",
+        "area_lic": 12.9,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 350,
+        "proces_sei": "18201.001881/2023.80"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4518",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.06097,
+          0.903853
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO PEREIRA",
+        "endereco": "VICINAL 22, LOTE 461, GLEBA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.903853",
+        "longitude": "-60.06097",
+        "atividade": "PASTAGEM",
+        "area_lic": 30.22,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 319,
+        "proces_sei": "18201.001816/2023.54"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.226575,
+          3.412503
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA FLORESTA",
+        "endereco": "GLEBA CAUAMÉ/ ZONA RURAL.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "3.4125027777777777",
+        "longitude": "-61.226575",
+        "atividade": "PASTAGEM",
+        "area_lic": 102,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 115,
+        "proces_sei": "18201.000647/2023.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4516",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.184167,
+          3.38
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "ZONA RURAL, GLEBA CAUAMÉ.",
+        "endereco": "ZONA RURAL, GLEBA CAUAMÉ.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "3.38",
+        "longitude": "-61.18416666666666",
+        "atividade": "PASTAGEM",
+        "area_lic": 100,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 116,
+        "proces_sei": "18201.000648/2023.80"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4515",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.209444,
+          3.361944
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA CAMPO NOVO, GLEBA CAUAMÉ",
+        "endereco": "FAZENDA CAMPO NOVO, GLEBA CAUAMÉ",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "3.3619444444444446",
+        "longitude": "-61.20944444444445",
+        "atividade": "PASTAGEM",
+        "area_lic": 554.45,
+        "data_f": "2023-01-31",
+        "data_i": "2023-08-21",
+        "n_auto": 218,
+        "proces_sei": "18201.000643/2023.57"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4514",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.194722,
+          3.425
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": " FAZENDA BOM JARDIM E AMARATÍ",
+        "endereco": "REGIÃO DO TAIANO, GLEBA CAUAMÉ.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "3.425",
+        "longitude": "-61.19472222222222",
+        "atividade": "PASTAGEM",
+        "area_lic": 101.3982,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 119,
+        "proces_sei": "18201.000640/2023.13"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4513",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.647369,
+          1.153673
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA BOA VISTA",
+        "endereco": "LOCALIZADA NA VIC. 40/21, KM 21, NOVO PARAÍSO",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.153673",
+        "longitude": "-60.647369",
+        "atividade": "PASTAGEM",
+        "area_lic": 20,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 284,
+        "proces_sei": "18201.001655/2023.07"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4512",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.59021,
+          1.6384
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA PRIMAVERA",
+        "endereco": "VIC. DO ITÃ, GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.6384",
+        "longitude": "-60.59021",
+        "atividade": "PASTAGEM",
+        "area_lic": 148.335,
+        "data_f": "2023-03-31",
+        "data_i": "2023-08-21",
+        "n_auto": 153,
+        "proces_sei": "18201.000652/2023.48"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4511",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.219444,
+          2.439167
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "GLEBA CARACARAÍ, REGIÃO DO ROXINHO.",
+        "endereco": "GLEBA CARACARAÍ, REGIÃO DO ROXINHO.",
+        "municip": "MUCAJAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.439166666666667",
+        "longitude": "-61.21944444444445",
+        "atividade": "PASTAGEM",
+        "area_lic": 294.57,
+        "data_f": "2023-01-31",
+        "data_i": "2023-01-19",
+        "n_auto": 60,
+        "proces_sei": "18201.000169/2023.63"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4510",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.115556,
+          1.228889
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SITIO 3 IRMÃOS",
+        "endereco": "PA-SERRA DOURADA, GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.228888888888889",
+        "longitude": "-60.11555555555556",
+        "atividade": "PASTAGEM",
+        "area_lic": 34.7798,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 276,
+        "proces_sei": "18201.001507/2023.84"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-450f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.678903,
+          0.574519
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA NOVOS AMIGOS",
+        "endereco": "FAZENDA NOVOS AMIGOS, GLEBA CACHIMBO.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.5745194444444445",
+        "longitude": "-60.67890277777778",
+        "atividade": "PASTAGEM",
+        "area_lic": 190.4372,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 151,
+        "proces_sei": "18201.000870/2023.82"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-450e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.052689,
+          1.270197
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO ALVORADA",
+        "endereco": "SÍTIO ALVORADA,PA SERRA DOURADA, GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.270197",
+        "longitude": "-60.052689",
+        "atividade": "PASTAGEM",
+        "area_lic": 7.65,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 349,
+        "proces_sei": "18201.001813/2023.11"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-450d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.931667,
+          2.306389
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SITIO TIBAJI",
+        "endereco": "FAZENDA SITIO TIBAJI, BR 174, GLEBA - CARACARAÍ.",
+        "municip": "MUCAJAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.306388888888889",
+        "longitude": "-60.931666666666665",
+        "atividade": "PASTAGEM",
+        "area_lic": 56.0679,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 533,
+        "proces_sei": "18201.000093/2023.76"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-450c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.131632,
+          1.22238
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "LOTE 163",
+        "endereco": "VICINAL 07, LOTE 163, KM 2 GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.22238",
+        "longitude": "-60.131632",
+        "atividade": "PASTAGEM",
+        "area_lic": 38,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 174,
+        "proces_sei": "18201.000965/2023.04"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-450b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.121009,
+          1.236474
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO PAI E FILHA",
+        "endereco": "SÍTIO PAI E FILHA, LOTE 146, VICINAL 04, GLEBA PA - BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.236474",
+        "longitude": "-60.121009",
+        "atividade": "PASTAGEM",
+        "area_lic": 45.3147,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 175,
+        "proces_sei": "18201.000966/2023.41"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-450a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.582199,
+          1.654464
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SERRA GRANDE",
+        "endereco": "FAZENDA SERRA GRANDE, VIC. ITÃ, KM 15, GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.654464",
+        "longitude": "-60.582199",
+        "atividade": "PASTAGEM",
+        "area_lic": 178.832,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 135,
+        "proces_sei": "18201.000653/2023.92"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4509",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.802604,
+          2.050673
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SUCURÍ",
+        "endereco": "FSZENDA SUCURÍ,VICINAL DO AJANARÍ, GLEBA CARACARAÍ, S/N - ZONA RURAL.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "2.050673",
+        "longitude": "-61.802604",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 254.04,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 266,
+        "proces_sei": "18201.001397/2023.51"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4508",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.776555,
+          2.197514
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA PAQUERER",
+        "endereco": "ESTRADA VIC.14 KM 45, GLEBA CARACARAÍ S/N ZONA RURAL",
+        "municip": "IRACEMA",
+        "instituto": "FEMARH",
+        "latitude": "2.197514",
+        "longitude": "-61.776555",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 139.4,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 68,
+        "proces_sei": "18201.000165/2023.85"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4507",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.069876,
+          1.138605
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO DOIS CORAÇÕES ",
+        "endereco": "VICINAL 03, LOTE 293 GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.138605",
+        "longitude": "-60.069876",
+        "atividade": "PASTAGEM",
+        "area_lic": 22,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 395,
+        "proces_sei": "18201.002030/2023.54"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.911944,
+          2.368056
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA PAI HERÓI, GLEBA CARACARAÍ",
+        "endereco": "FAZENDA PAI HERÓI, GLEBA CARACARAÍ",
+        "municip": "MUCAJAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.368055555555556",
+        "longitude": "-61.911944444444444",
+        "atividade": "PASTAGEM",
+        "area_lic": 205.879,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 212,
+        "proces_sei": "18201.001128/2023.94"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4505",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.88932,
+          -0.133317
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "BR 431, KM 15, GLEBA PRETINHO.",
+        "endereco": "BR 431, KM 15, GLEBA PRETINHO.",
+        "municip": "CANTÁ",
+        "instituto": "FEMARH",
+        "latitude": "-0.133317",
+        "longitude": "-60.88932",
+        "atividade": "PASTAGEM",
+        "area_lic": 254.831,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 281,
+        "proces_sei": "18201.001581/2023.09"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.493738,
+          1.092437
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA ACONCHEGO",
+        "endereco": "FAZENDA ACONCHEGO, VICINAL 11, KM 29, GLEBA BALIZA.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.092437",
+        "longitude": "-59.493738",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 156.7816,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 140,
+        "proces_sei": "18201.000823/2023.39"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4503",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.061389,
+          1.053611
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO NETINHA",
+        "endereco": "VICINAL 20 KM 0,9, GLEBA JAUAPERÍ.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "1.053611111111111",
+        "longitude": "-60.061388888888885",
+        "atividade": "PASTAGEM",
+        "area_lic": 30,
+        "data_f": "2023-08-30",
+        "data_i": "2023-08-21",
+        "n_auto": 426,
+        "proces_sei": "18201.002389/2023.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4502",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.413303,
+          0.246948
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA IDIAPORÃ .",
+        "endereco": "GLEGA EQUADOR.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.246948",
+        "longitude": "-60.413303",
+        "atividade": "PASTAGEM",
+        "area_lic": 50,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-04",
+        "n_auto": 717,
+        "proces_sei": "18201.009049/2023.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.987222,
+          1.515833
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA QUIXADA",
+        "endereco": "BR-174, VILA NOVA PETROLINA, ZONA RURAL, GLEBA CARACARAI",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.5158333333333334",
+        "longitude": "-60.98722222222222",
+        "atividade": "PASTAGEM",
+        "area_lic": 593.79,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-15",
+        "n_auto": 796,
+        "proces_sei": "18201.009730/2023.70"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-4500",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.058889,
+          0.993611
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "LOTE 215",
+        "endereco": "VICINAL 20, LOTE 215 GLEGA JAUAPERÍ.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "0.9936111111111111",
+        "longitude": "-60.05888888888889",
+        "atividade": "PASTAGEM",
+        "area_lic": 14,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 396,
+        "proces_sei": "18201.001787/2023.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44ff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.763281,
+          2.078814
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA LEOPOLDINA",
+        "endereco": "FAZENDA LEOPOLDINA, GLEBA CARACARAÍ.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.078813888888889",
+        "longitude": "-61.76328055555555",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 174.6541,
+        "data_f": "2023-03-31",
+        "data_i": "2023-02-17",
+        "n_auto": 188,
+        "proces_sei": "18201.001052/2023.05"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44fe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.844989,
+          2.166937
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA TRÊS MARIAS",
+        "endereco": "FAZENDA TRÊS MARIAS, REGIÃO DO ROXINHO.",
+        "municip": "IRACEMA",
+        "instituto": "FEMARH",
+        "latitude": "2.166937",
+        "longitude": "-61.844989",
+        "atividade": "PASTAGEM",
+        "area_lic": 250,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 231,
+        "proces_sei": "18201.001092/2023.49"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44fd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.979947,
+          0.968131
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SITIO BAHIA",
+        "endereco": "BR 210, KM 62, LOTE 489, GLEBA JAUAPERÍ.",
+        "municip": "SÃO JOÃO DA BALIZA",
+        "instituto": "FEMARH",
+        "latitude": "0.968131",
+        "longitude": "-59.979947",
+        "atividade": "PASTAGEM",
+        "area_lic": 33.9211,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 176,
+        "proces_sei": "18201.001026/2023.79"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44fc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.986406,
+          0.975941
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SITIO BAHIA II",
+        "endereco": "BR 210, KM 62, LOTE 498.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.975941",
+        "longitude": "-59.986406",
+        "atividade": "PASTAGEM",
+        "area_lic": 24.1407,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 177,
+        "proces_sei": "18201.001023/2023.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44fb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0381,
+          1.1653
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SITIO GRANDE SONHOS",
+        "endereco": "LOTE 276, VICINAL 03, PA SERRA DOURADA, GLEBA BARAUANA.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.1653",
+        "longitude": "-60.0381",
+        "atividade": "PASTAGEM",
+        "area_lic": 27.31,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 261,
+        "proces_sei": "18201.001396/2023.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44fa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.094502,
+          2.588517
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "KM 33 DA RR-325, GLEBA CARACARAÍ - RR/ ZONA RURAL.",
+        "endereco": "KM 33 DA RR-325, GLEBA CARACARAÍ - RR/ ZONA RURAL.",
+        "municip": "MUCAJAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.588517",
+        "longitude": "-61.094502",
+        "atividade": "PASTAGEM",
+        "area_lic": 364.69,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 401,
+        "proces_sei": "18201.002044/2023.78"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44f9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.961944,
+          1.453889
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA TEPEQUEM",
+        "endereco": "VICINAL DA SERRA DOURADA, KM 63, BLEBA - BARAUANA",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.4538888888888888",
+        "longitude": "-59.96194444444445",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 275.5975,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 62,
+        "proces_sei": "18201.000130/2023.46"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44f8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4875,
+          3.039722
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "RR 205, KM 93, 4, GLEBA CAUAMÉ.",
+        "endereco": "RR 205, KM 93, 4, GLEBA CAUAMÉ.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "3.039722222222222",
+        "longitude": "-61.487500000000004",
+        "atividade": "PASTAGEM",
+        "area_lic": 487,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 410,
+        "proces_sei": "18201.002227/2023.93"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44f7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.959476,
+          0.903016
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA TERRAS I",
+        "endereco": "VICINAL 26, KM 06, LOTE 595 - ZONA RURAL - GLEBA JAUAPERÍ.",
+        "municip": "SÃO JOÃO DA BALIZA",
+        "instituto": "FEMARH",
+        "latitude": "0.903016",
+        "longitude": "-59.959476",
+        "atividade": "PASTAGEM",
+        "area_lic": 40.69,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 234,
+        "proces_sei": "18201.001226/2023.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44f6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.957524,
+          0.904883
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA TERRAS 2",
+        "endereco": "VICINAL 26, KM 06, LOTE 594.",
+        "municip": "SÃO JOÃO DA BALIZA",
+        "instituto": "FEMARH",
+        "latitude": "0.904883",
+        "longitude": "-59.957524",
+        "atividade": "PASTAGEM",
+        "area_lic": 45.27,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 251,
+        "proces_sei": "18201.001231/2023.34"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44f5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.956519,
+          0.909292
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA TERRAS III",
+        "endereco": "VICINAL 26 - KM 06 - LOTE 593 - ZONA RURAL - GLEBA AUAPERÍ.",
+        "municip": "SÃO JOÃO DA BALIZA",
+        "instituto": "FEMARH",
+        "latitude": "0.9092916666666666",
+        "longitude": "-59.956519444444446",
+        "atividade": "PASTAGEM",
+        "area_lic": 44.95,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 235,
+        "proces_sei": "18201.001232/2023.89"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44f4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.346944,
+          1.110833
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL 07, GLEBA BALIZA, KM 210, CAROEBE-RR",
+        "endereco": "VICINAL 07, GLEBA BALIZA, KM 210, CAROEBE-RR",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.1108333333333333",
+        "longitude": "-59.346944444444446",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 246.97,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 769,
+        "proces_sei": "18201.009616/2023.40"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44f3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.903902,
+          0.903638
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO SERRO AZUL",
+        "endereco": "VIC 28, KM 05, LOTE 845, GLEBA JAUAPERÍ.",
+        "municip": "SÃO JOÃO DA BALIZA",
+        "instituto": "FEMARH",
+        "latitude": "0.903638",
+        "longitude": "-59.903902",
+        "atividade": "PASTAGEM",
+        "area_lic": 8,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 210,
+        "proces_sei": "18201.000574/2023.81"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44f2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.402008,
+          1.124968
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SOBERANA",
+        "endereco": "TRAVESSÃO 07, S/N, ZONA RURAL",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.124968",
+        "longitude": "-59.402008",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 99.01,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-31",
+        "n_auto": 117,
+        "proces_sei": "18201.000516/2023.58"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44f1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.870636,
+          1.830042
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA CASTANHAL.",
+        "endereco": "VICINAL 03, PA CAJUBIM, S/N, GLEBA BARAUANA/ZONA RURAL",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.8300416666666668",
+        "longitude": "-60.87063611111111",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 194,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 719,
+        "proces_sei": "18201.009137/2023.23"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44f0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.087222,
+          1.075278
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SITIO SÃO PEDRO 3",
+        "endereco": "VICINAL 19, LOTE 101, GLEBA BALIZA",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "1.0752777777777778",
+        "longitude": "-60.08722222222222",
+        "atividade": "PASTAGEM",
+        "area_lic": 16,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 308,
+        "proces_sei": "18201.001785/2023.31"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44ef",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.040309,
+          1.070854
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SITIO LARANJAL",
+        "endereco": "VICINAL 21 B, SÍTIO LARANJAL, GLEBA BALIZA.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "1.070854",
+        "longitude": "-60.040309",
+        "atividade": "PASTAGEM",
+        "area_lic": 42.2419,
+        "data_f": "2023-03-31",
+        "data_i": "2023-03-06",
+        "n_auto": 224,
+        "proces_sei": "18201.001159/2023.45"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44ee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.271154,
+          0.826611
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA JATAPÚ.",
+        "endereco": "FAZENDA JATAPÚ, GLEBA BALIZA.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.826611",
+        "longitude": "-59.271154",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 56.9,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-15",
+        "n_auto": 793,
+        "proces_sei": "18201.009711/2023.43"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44ed",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.855117,
+          2.070703
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SERRA VERDE , REGIÃO DO AJANARI, KM 38, GLEBA CARACARAÍ.",
+        "endereco": "FAZENDA SERRA VERDE , REGIÃO DO AJANARI, KM 38, GLEBA CARACARAÍ.",
+        "municip": "IRACEMA",
+        "instituto": "FEMARH",
+        "latitude": "2.070702777777778",
+        "longitude": "-61.85511666666667",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 427.22,
+        "data_f": "2024-01-01",
+        "data_i": "2023-12-13",
+        "n_auto": 746,
+        "proces_sei": "18201.009423/2023.99"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44ec",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.628666,
+          3.89056
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO N.S.I.CONCEIÇÃO",
+        "endereco": "LOTE 47 VIC. 02 GLEBA AMAJARÍ.",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.89056",
+        "longitude": "-61.628666",
+        "atividade": "PASTAGEM",
+        "area_lic": 10,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-11",
+        "n_auto": 751,
+        "proces_sei": "18201.009542/2023.41"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44eb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.293706,
+          2.910275
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "BR 401, ACESSO PELA RR 206, KM 28, GLEBA TACUTU",
+        "endereco": "BR 401, ACESSO PELA RR 206, KM 28, GLEBA TACUTU ",
+        "municip": "BONFIM",
+        "instituto": "FEMARH",
+        "latitude": "2.910275",
+        "longitude": "-60.293705555555555",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 642.2817,
+        "data_f": "2024-01-01",
+        "data_i": "2023-12-14",
+        "n_auto": 791,
+        "proces_sei": "18201.009277/2023.00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44ea",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.398527,
+          0.943091
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA NOVA ESPERANÇA",
+        "endereco": "VICINAL 13, VILA ENTRE RIOS",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.943091",
+        "longitude": "-59.398527",
+        "atividade": "PASTAGEM",
+        "area_lic": 236.779,
+        "data_f": "2024-01-01",
+        "data_i": "2023-12-11",
+        "n_auto": 754,
+        "proces_sei": "18201.009461/2023.41"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44e9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.086672,
+          2.983469
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "GLEBA CARACARAI",
+        "endereco": "GLEBA CARACARAI",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.9834694444444443",
+        "longitude": "-61.08667222222222",
+        "atividade": "PASTAGEM",
+        "area_lic": 73.775,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 764,
+        "proces_sei": "18201.009601/2023.81"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44e8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.95169,
+          3.883965
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA TARUMÃ ",
+        "endereco": "FAZENDA TARUMÃ , VICINAL PARAÍSO, KM 30,  ZONA RURAL",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.883965",
+        "longitude": "-61.95169",
+        "atividade": "PASTAGEM",
+        "area_lic": 79.3771,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 718,
+        "proces_sei": "18201.008981/2023.37"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44e7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.616964,
+          1.048931
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA CHAPARRAL",
+        "endereco": "GLEBA NOVO PARAISO, VICINAL 2-A, KM 25",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.0489305555555555",
+        "longitude": "-60.61696388888889",
+        "atividade": "PASTAGEM",
+        "area_lic": 174.049,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-11",
+        "n_auto": 760,
+        "proces_sei": "18201.009572/2023.58"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44e6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.406016,
+          0.937129
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA CASTANHAL.",
+        "endereco": "VICINAL 13, KM 17,5 ENTRE RIOS, GLEBA BALIZA.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.937129",
+        "longitude": "-59.406016",
+        "atividade": "PASTAGEM",
+        "area_lic": 194.4,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 765,
+        "proces_sei": "18201.009459/2023.72"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44e5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.880566,
+          -0.156347
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA JUNDIÁ II.",
+        "endereco": "BR 431, KM 18, S/N, VILA JUNDIA.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "-0.156347",
+        "longitude": "-60.880566",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 388.11,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 766,
+        "proces_sei": "18201.009480/2023.78"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44e4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.350464,
+          0.815514
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SÃO PEDRO.",
+        "endereco": "USINA HIDRELÉTRICA JATAPÚ,KM 4, GLEBA BALIZA.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "0.8155138888888889",
+        "longitude": "-59.35046388888889",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 195.7,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 768,
+        "proces_sei": "18201.009613/2023.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44e3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.21007,
+          1.945451
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA ESPERANÇA",
+        "endereco": "GLEBA CARACARAI",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.945451",
+        "longitude": "-61.21007",
+        "atividade": "PASTAGEM",
+        "area_lic": 127.366,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 761,
+        "proces_sei": "18201.009603/2023.71"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44e2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.156383,
+          3.435942
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA MURIRU",
+        "endereco": "FAZENDA MURIRU, REGIÃO DO TAIANO, GLEBA CAUAMÉ.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "3.4359416666666664",
+        "longitude": "-61.15638333333333",
+        "atividade": "PASTAGEM",
+        "area_lic": 475.8328,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 771,
+        "proces_sei": "18201.009502/2023.08"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44e1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.668894,
+          1.071053
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA TRÊS CORAÇÕES",
+        "endereco": "GLEBA NOVO PARAISO",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "1.0710527777777779",
+        "longitude": "-60.66889444444445",
+        "atividade": "PASTAGEM",
+        "area_lic": 252.212,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 777,
+        "proces_sei": "18201.009476/2023.18"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44e0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.89002,
+          3.768786
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA ALEGRIA",
+        "endereco": "GLEBA TEPEQUÉM, VICINAL AMAJARI 347  PARAISO",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.768786",
+        "longitude": "-61.89002",
+        "atividade": "PASTAGEM",
+        "area_lic": 180,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 781,
+        "proces_sei": "18201.009464/2023.85"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44df",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.737692,
+          3.049015
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL 16, LOTE 259, PAREDÃO",
+        "endereco": "VICINAL 16, LOTE 259, PAREDÃO",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "3.049015",
+        "longitude": "-61.737692",
+        "atividade": "PASTAGEM",
+        "area_lic": 10,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-13",
+        "n_auto": 783,
+        "proces_sei": "18201.009303/2023.91"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44de",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.502125,
+          1.09634
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "TRAVESSÃO DA VICINAL 07, KM 4,2, GLEBA BALIZA",
+        "endereco": "TRAVESSÃO DA VICINAL 07, KM 4,2, GLEBA BALIZA",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.09634",
+        "longitude": "-59.502125",
+        "atividade": "PASTAGEM",
+        "area_lic": 23.4545,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 780,
+        "proces_sei": "18201.009481/2023.12"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44dd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.750446,
+          1.753447
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": " FAZENDA NOSSA SENHORA DA SALETE..",
+        "endereco": "FAZENDA N. SENHORA DA SALETE, RURAL-CARACARAÍ.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.753447",
+        "longitude": "-60.750446",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 185.7945,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 762,
+        "proces_sei": "18201.009599/2023.41"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44dc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.604362,
+          1.13935
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA ESMERALDA",
+        "endereco": "VICINAL 40, GLEBA NOVO PARAISO",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.13935",
+        "longitude": "-60.604362",
+        "atividade": "PASTAGEM",
+        "area_lic": 40,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 772,
+        "proces_sei": "18201.009625/2023.31"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44db",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.628653,
+          0.094934
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA ESMERALDA",
+        "endereco": "VICINAL 40, GLEBA NOVO PARAISO",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.094934",
+        "longitude": "-60.628653",
+        "atividade": "PASTAGEM",
+        "area_lic": 185,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 776,
+        "proces_sei": "18201.009445/2023.59"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44da",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.412689,
+          1.105846
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA CHAPEU PRETO ",
+        "endereco": "GLEBA BALIZA, LINHA 07 TRAVESSÃO 0",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.105846",
+        "longitude": "-59.412689",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 236.0586,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 774,
+        "proces_sei": "18201.009615/2023.03"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44d9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.759544,
+          -0.142956
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA JUNDIÁ.",
+        "endereco": "DISTRITO JUNDIÁ, GLEBA PRETINHO.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "-0.142956",
+        "longitude": "-60.759544",
+        "atividade": "PASTAGEM",
+        "area_lic": 414.461,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 775,
+        "proces_sei": "18201.009477/2023.54"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44d8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.28815,
+          2.870356
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "NULLFAZENDA QUIXABEIRA, RURAL, GLEBA QUITAUAÚ",
+        "endereco": "NULLFAZENDA QUIXABEIRA, RURAL, GLEBA QUITAUAÚ",
+        "municip": "BONFIM",
+        "instituto": "FEMARH",
+        "latitude": "2.8703555555555553",
+        "longitude": "-60.28815",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 189.64,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-13",
+        "n_auto": 725,
+        "proces_sei": "18201.009278/2023.46"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44d7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.736684,
+          3.849446
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO JR, RURAL,  GLEBA AMAJARÍ",
+        "endereco": "SÍTIO JR, RURAL,  GLEBA AMAJARÍ",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.849446",
+        "longitude": "-61.736684",
+        "atividade": "PASTAGEM",
+        "area_lic": 10,
+        "data_f": "2024-01-09",
+        "data_i": "2023-11-30",
+        "n_auto": 727,
+        "proces_sei": "18201.009319/2023.02"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44d6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.856997,
+          2.121025
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "GLEBA CARACARAÍ",
+        "endereco": "GLEBA CARACARAÍ",
+        "municip": "IRACEMA",
+        "instituto": "FEMARH",
+        "latitude": "2.121025",
+        "longitude": "-61.85699722222222",
+        "atividade": "PASTAGEM",
+        "area_lic": 304.9216,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-04",
+        "n_auto": 741,
+        "proces_sei": "18201.009357/2023.57"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44d5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.753464,
+          2.075984
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA BELA VISTA ",
+        "endereco": "GLEBA CARACARAÍ",
+        "municip": "IRACEMA",
+        "instituto": "FEMARH",
+        "latitude": "2.075984",
+        "longitude": "-61.753464",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 100,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-04",
+        "n_auto": 740,
+        "proces_sei": "18201.009362/2023.60"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44d4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.365761,
+          2.970186
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "ESTRADA NOVA ESPERANÇA KM06, GLEBA CAUAMÉ",
+        "endereco": "ESTRADA NOVA ESPERANÇA KM06, GLEBA CAUAMÉ",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "2.970186111111111",
+        "longitude": "-61.36576111111111",
+        "atividade": "PASTAGEM",
+        "area_lic": 1,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-29",
+        "n_auto": 724,
+        "proces_sei": "18201.009287/2023.37"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44d3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.408293,
+          1.693017
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO SÃO JOSÉ",
+        "endereco": "BR 432 S/Nº KM 6, GLEBA BARAUANA",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.693017",
+        "longitude": "-60.408293",
+        "atividade": "PASTAGEM",
+        "area_lic": 8,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-15",
+        "n_auto": 803,
+        "proces_sei": "18201.009695/2023.99"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44d2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.433547,
+          0.900292
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO PÉ. CÍCERO",
+        "endereco": "BR 174, LOTE 143 - ZONA RURAL",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.9002916666666666",
+        "longitude": "-60.433547222222224",
+        "atividade": "LIMPEZA DE ÁREA",
+        "area_lic": 7,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-15",
+        "n_auto": 799,
+        "proces_sei": "18201.009686/2023.06"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44d1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.312314,
+          1.372594
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA MANÇANO",
+        "endereco": "BR 432, KM 90 E 3 KM DE ACESSO, GLEBA BARAUANA",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.3725944444444445",
+        "longitude": "-60.31231388888889",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 188.28,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-15",
+        "n_auto": 798,
+        "proces_sei": "18201.009733/2023.11"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44d0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.608731,
+          3.889772
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO MONTE OREBE",
+        "endereco": "RURAL, GLEBA TEPEQUEM",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.889772222222222",
+        "longitude": "-61.60873055555555",
+        "atividade": "PASTAGEM",
+        "area_lic": 4.0794,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-15",
+        "n_auto": 794,
+        "proces_sei": "18201.009650/2023.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44cf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.615629,
+          0.609585
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA ESPERANÇA",
+        "endereco": "VICINAL 20, GLEBA CACHIMBO, ZONA RURAL",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.609585",
+        "longitude": "-60.615629",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 29.9618,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-15",
+        "n_auto": 797,
+        "proces_sei": "18201.009708/2023.20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44ce",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.823881,
+          3.501539
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SENTINELA ",
+        "endereco": "GLEBA TEPEQUEM, ZONA RURAL",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.5015388888888888",
+        "longitude": "-61.823880555555554",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 219.826,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-15",
+        "n_auto": 792,
+        "proces_sei": "18201.009715/2023.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44cd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.028875,
+          1.352424
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "",
+        "endereco": "GLEBA BARAUNA, S/N",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.352424",
+        "longitude": "-60.028875",
+        "atividade": "PASTAGEM",
+        "area_lic": 357.2989,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-19",
+        "n_auto": 789,
+        "proces_sei": "18201.009660/2023.50"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44cc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.685944,
+          2.484434
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO EBENEZER",
+        "endereco": "RURAL GLEBA QUITAUAÚ",
+        "municip": "CANTÁ",
+        "instituto": "FEMARH",
+        "latitude": "2.4844344444444446",
+        "longitude": "-60.685944444444445",
+        "atividade": "PASTAGEM",
+        "area_lic": 24.6275,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-04",
+        "n_auto": 729,
+        "proces_sei": "18201.009308/2023.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44cb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.72783,
+          1.858256
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO SANTA LUZIA ",
+        "endereco": "LOTE 107, PA CAXIAS GLEBA BARAUANA",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.858256",
+        "longitude": "-60.72783",
+        "atividade": "PASTAGEM",
+        "area_lic": 4,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-04",
+        "n_auto": 731,
+        "proces_sei": "18201.009350/2023.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44ca",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.915169,
+          3.852291
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA RABELO",
+        "endereco": "VICINAL PARAISO, KM 20, GLEBA TEPEQUEML",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.852291",
+        "longitude": "-61.915169",
+        "atividade": "PASTAGEM",
+        "area_lic": 50,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-18",
+        "n_auto": 807,
+        "proces_sei": "18201.009768/2023.42"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44c9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.377876,
+          1.389232
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA JUA/SAPÉ",
+        "endereco": "BR 432,KM 20, VICINAL BARAUNA",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.389232",
+        "longitude": "-60.377876",
+        "atividade": "PASTAGEM",
+        "area_lic": 657.1946,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-18",
+        "n_auto": 806,
+        "proces_sei": "18201.009758/2023.15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44c8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.85162,
+          2.388805
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA ÁGUA LINDA",
+        "endereco": "GLEBA CARACARAI, ZONA RURAL",
+        "municip": "MUCAJAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.388805",
+        "longitude": "-61.85162",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 131.19,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-18",
+        "n_auto": 805,
+        "proces_sei": "18201.009764/2023.64"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44c7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.329876,
+          1.167073
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA DEUS É FIEL II",
+        "endereco": "TRAVESSÃO DA VICINAL 07, KM 36, GLEBA BALIZA",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.167073",
+        "longitude": "-59.329876",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 279.9008,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-15",
+        "n_auto": 804,
+        "proces_sei": "18201.009663/2023.93"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44c6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.315157,
+          1.352109
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA MARAGATO",
+        "endereco": "BR432, KM90, ESTRADA DE ACESSO 3KM, GLEBA BARAUNA",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "1.352109",
+        "longitude": "-60.315157",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 206.292,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-15",
+        "n_auto": 795,
+        "proces_sei": "18201.009731/2023.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44c5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.60256,
+          0.432942
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "GLEBA PRETINHO",
+        "endereco": "GLEBA PRETINHO",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.432942",
+        "longitude": "-60.60256",
+        "atividade": "PASTAGEM",
+        "area_lic": 264.182,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-20",
+        "n_auto": 817,
+        "proces_sei": "18201.009853/2023.19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44c4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.331636,
+          1.160906
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA DEUS É FIEL ",
+        "endereco": "GLEBA BALIZA",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.1609055555555556",
+        "longitude": "-59.33163611111111",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 226.6168,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-20",
+        "n_auto": 815,
+        "proces_sei": "18201.009847/2023.53"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44c3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.069167,
+          2.949906
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": " FAZENDA MORADA NOVA II",
+        "endereco": "NULLFAZENDA MORADA NOVA II, GLEBA CAUÁMÉ",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "2.9499055555555556",
+        "longitude": "-61.06916666666667",
+        "atividade": "PASTAGEM",
+        "area_lic": 271.5066,
+        "data_f": "2024-01-01",
+        "data_i": "2023-12-13",
+        "n_auto": 720,
+        "proces_sei": "18201.009227/2023.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44c2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.868992,
+          3.892848
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA HB",
+        "endereco": "VICINAL PARAÍSO, KM 20, GLEBA EREU",
+        "municip": "AMAJARI",
+        "instituto": "FEMARH",
+        "latitude": "3.892848",
+        "longitude": "-61.868992",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 176,
+        "data_f": "2024-01-09",
+        "data_i": "2023-11-30",
+        "n_auto": 728,
+        "proces_sei": "18201.009196/2023.00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44c1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.451389,
+          0.223611
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA FELICIDADE, RURAL GLEBA EQUADOR",
+        "endereco": "FAZENDA FELICIDADE, RURAL GLEBA EQUADOR",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.22361111111111112",
+        "longitude": "-60.45138888888889",
+        "atividade": "RESTOS DE EXPLORAÇÃO",
+        "area_lic": 274.594,
+        "data_f": "2024-01-09",
+        "data_i": "2023-11-30",
+        "n_auto": 726,
+        "proces_sei": "18201.009223/2023.36"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44c0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.313811,
+          0.691128
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "RANCHO BESCHORNER",
+        "endereco": "LOTE 56 VICINAL 14-A GLEBA: PA-PEDRO CLEMENTINO.",
+        "municip": "RORAINÓPOLIS",
+        "instituto": "FEMARH",
+        "latitude": "0.6911277777777778",
+        "longitude": "-60.313811111111114",
+        "atividade": "RESTOS DE CULTURA",
+        "area_lic": 27.0934,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 213,
+        "proces_sei": "18201.001126/2023.03"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44bf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.186944,
+          2.796389
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "LOCALIZADO NA GLEBA CAUAUMÉ.",
+        "endereco": "LOCALIZADO NA GLEBA CAUAUMÉ.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "2.7963888888888886",
+        "longitude": "-61.18694444444444",
+        "atividade": "RESTOS DE CULTURA",
+        "area_lic": 74.0817,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 150,
+        "proces_sei": "18201.000651/2023.01"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44be",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.582992,
+          2.428038
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO PROGRESSO",
+        "endereco": "LOTE 218, VICINAL 03, CONFIANÇA 02",
+        "municip": "CANTÁ",
+        "instituto": "FEMARH",
+        "latitude": "2.428038",
+        "longitude": "-60.582992",
+        "atividade": "RESTOS DE CULTURA",
+        "area_lic": 15,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 111,
+        "proces_sei": "18201.000625/2023.75"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44bd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.678471,
+          2.012195
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "SÍTIO SÃO MIGUEL.",
+        "endereco": "SÍTIO SÃO MIGUEL, VIC. 09, LOTE 06, GLEBA BARAUANA, PA CAXIAS.",
+        "municip": "CARACARAÍ",
+        "instituto": "FEMARH",
+        "latitude": "2.012195",
+        "longitude": "-60.678471",
+        "atividade": "RESTOS DE CULTURA",
+        "area_lic": 1.05,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-09",
+        "n_auto": 347,
+        "proces_sei": "18201.001339/2023.27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44bc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.462043,
+          1.120649
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA NOVA CANAÃ",
+        "endereco": "FAZENDA NOVA CANAÃ, GLEBA BALIZA.",
+        "municip": "CAROEBE",
+        "instituto": "FEMARH",
+        "latitude": "1.120649",
+        "longitude": "-59.462043",
+        "atividade": "RESTOS DE CULTURA",
+        "area_lic": 89.1495,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 105,
+        "proces_sei": "18201.000491/2023.92"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44bb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.161667,
+          0.861667
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "LOTE 323",
+        "endereco": "VICINAL 20, KM 03.",
+        "municip": "SÃO LUIZ DO ANAUÁ",
+        "instituto": "FEMARH",
+        "latitude": "0.8616666666666667",
+        "longitude": "-60.16166666666666",
+        "atividade": "RESTOS DE CULTURA",
+        "area_lic": 35,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 154,
+        "proces_sei": "18201.000682/2023.54"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44ba",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.948931,
+          2.660767
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "VICINAL MACLAREM, KM 7,80, GLEBA CAUAMÉ.",
+        "endereco": "VICINAL MACLAREM, KM 7,80, GLEBA CAUAMÉ.",
+        "municip": "BOA VISTA",
+        "instituto": "FEMARH",
+        "latitude": "2.660767",
+        "longitude": "-60.948931",
+        "atividade": "RESTOS DE CULTURA",
+        "area_lic": 319.8369,
+        "data_f": "2023-08-31",
+        "data_i": "2023-08-21",
+        "n_auto": 66,
+        "proces_sei": "18201.000235/2023.03"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44b9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.124639,
+          2.85245
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": " FAZENDA PARAGOMINAS II",
+        "endereco": "FAZENDA PARAGOMINAS II, GLEBA CAUAMÉ.",
+        "municip": "ALTO ALEGRE",
+        "instituto": "FEMARH",
+        "latitude": "2.85245",
+        "longitude": "-61.12463888888889",
+        "atividade": "RESTOS DE CULTURA",
+        "area_lic": 673.0153,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-12",
+        "n_auto": 773,
+        "proces_sei": "18201.009356/2023.11"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44b8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.183462,
+          2.190002
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA BONITO ",
+        "endereco": "ZONA RURAL, GLEBA CARACARAÍ",
+        "municip": "IRACEMA",
+        "instituto": "FEMARH",
+        "latitude": "2.190002",
+        "longitude": "-61.183462",
+        "atividade": "RESTOS DE CULTURA",
+        "area_lic": 103.8058,
+        "data_f": "2024-01-09",
+        "data_i": "2023-12-04",
+        "n_auto": 712,
+        "proces_sei": "18201.008935/2023.38"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "controle_queimadas_2023.fid-7316623d_19aa2c6fe84_-44b7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.094284,
+          2.031035
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "denomina": "FAZENDA SANTA LUZIA.",
+        "endereco": "ZONA RURAL, GLEBA CARACARAÍBR 174, KM -113, GLEBA CARACARAÍ/ZONA RURAL.",
+        "municip": "IRACEMA",
+        "instituto": "FEMARH",
+        "latitude": "2.031035",
+        "longitude": "-61.094284",
+        "atividade": "RESTOS DE CULTURA",
+        "area_lic": 62.3129,
+        "data_f": "0203-12-08",
+        "data_i": "2023-11-23",
+        "n_auto": 12,
+        "proces_sei": "18201.008936/2023.82"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "comment": "Template de configuração de camadas. Edite este arquivo e copie o conteúdo para LAYERS_CONFIG em layers.js",
+  "camadas": [
+    {
+      "nome": "Imóveis Regularizados",
+      "tipo": "geojson",
+      "arquivo": "camadas/propriedades.json",
+      "cor": "#0000FF", 
+      "peso": 2,
+      "transparencia": 0.1,
+      "visivel_inicial": false,
+      "descricao": "Imóveis Regularizados"
+    },
+    {
+      "nome": "Atividade Regularizada",
+      "tipo": "geojson",
+      "arquivo": "camadas/atividades.json",
+      "cor": "preta",
+      "peso": 2,
+      "transparencia": 0.15,
+      "visivel_inicial": false,
+      "descricao": "Rios, lagos e corpos d'água"
+    },
+    {
+      "nome": "Iteraima - Títulos Definitivos",
+      "tipo": "geojson",
+      "arquivo": "camadas/iteraima.json",
+      "cor": "#FF6600",
+      "peso": 2,
+      "transparencia": 0.1,
+      "visivel_inicial": false,
+      "descricao": "Iteraima - Títulos Definitivos"
+    },
+    {
+      "nome": "Autorização de Ocupação",
+      "tipo": "geojson",
+      "arquivo": "camadas/ocupacao.json",
+      "cor": "#9900FF",
+      "peso": 3,
+      "transparencia": 0.2,
+      "visivel_inicial": false,
+      "descricao": "Rede viária"
+    },
+    {
+      "nome": "Parcelas Certificadas",
+      "tipo": "geojson",
+      "arquivo": "camadas/incra.json",
+      "cor": "#8B4513",
+      "peso": 1,
+      "transparencia": 0.15,
+      "visivel_inicial": false,
+      "descricao": "Parcelas Certificadas"
+    }
+    {
+      "nome": "SIGEF - Tituladas",
+      "tipo": "geojson",
+      "arquivo": "camadas/sigef.json",
+      "cor": "#8B4513",
+      "peso": 1,
+      "transparencia": 0.15,
+      "visivel_inicial": false,
+      "descricao": "Parcelas Certificadas"
+    }
+    {
+      "nome": "Fogo 2023",
+      "tipo": "geojson",
+      "arquivo": "camadas/fogo2023.json",
+      "cor": "#8B4513",
+      "peso": 1,
+      "transparencia": 0.15,
+      "visivel_inicial": false,
+      "descricao": "Fogo 2023"
+    }
+    {
+      "nome": "Fogo 2024",
+      "tipo": "geojson",
+      "arquivo": "camadas/fogo2024.json",
+      "cor": "#8B4513",
+      "peso": 1,
+      "transparencia": 0.15,
+      "visivel_inicial": false,
+      "descricao": "Fogo 2023"
+    }
+    {
+      "nome": "Fogo 2025",
+      "tipo": "geojson",
+      "arquivo": "camadas/fogo2025.json",
+      "cor": "#8B4513",
+      "peso": 1,
+      "transparencia": 0.15,
+      "visivel_inicial": false,
+      "descricao": "Fogo 2023"
+    }
+    {
+      "nome": "IBAMA - Embargos",
+      "tipo": "geojson",
+      "arquivo": "camadas/embargosIbama.json",
+      "cor": "#8B4513",
+      "peso": 1,
+      "transparencia": 0.15,
+      "visivel_inicial": false,
+      "descricao": "Fogo 2023"
+    }
+    {
+      "nome": "Rodovias - Vicinais",
+      "tipo": "geojson",
+      "arquivo": "camadas/rodovias.json",
+      "cor": "#8B4513",
+      "peso": 1,
+      "transparencia": 0.15,
+      "visivel_inicial": false,
+      "descricao": "Rodovias e vicinais"
+    }
+  ],
+  "cores_disponiveis": {
+    "vermelho": "#FF0000",
+    "azul": "#0000FF",
+    "verde": "#00AA00",
+    "amarelo": "#FFB800",
+    "roxo": "#9900FF",
+    "rosa": "#FF1493",
+    "marrom": "#8B4513",
+    "laranja": "#FF6600",
+    "ciano": "#00FFFF",
+    "cinza": "#808080"
+  }
+}

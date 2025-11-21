@@ -1,0 +1,159 @@
+{
+  "categorias": [
+    {
+      "nome": "Base Cartográfica",
+      "icone": "fa-map",
+      "camadas": [
+        {
+          "nome": "Rodovias - Vicinais",
+          "arquivo": "camadas/Rodovias_Vicinais.json",
+          "tipo": "linha",
+          "estilo": {
+            "color": "#FFB800",
+            "weight": 2,
+            "opacity": 1
+          },
+          "visivel": false
+        }
+      ]
+    },
+    {
+      "nome": "Licenciamento Ambiental",
+      "icone": "fa-pen-fancy",
+      "camadas": [
+        {
+          "nome": "Imóveis Regularizados",
+          "arquivo": "camadas/Imoveis_Regularizados.json",
+          "tipo": "poligono",
+          "estilo": {
+            "color": "#0000FF",
+            "weight": 2,
+            "fillColor": "transparent",
+            "fillOpacity": 0
+          },
+          "visivel": false
+        },
+        {
+          "nome": "Atividade Regularizada",
+          "arquivo": "camadas/Atividade_Regularizada.json",
+          "tipo": "poligono",
+          "estilo": {
+            "color": "#000000",
+            "weight": 2,
+            "fillColor": "transparent",
+            "fillOpacity": 0
+          },
+          "visivel": false
+        }
+      ]
+    },
+    {
+      "nome": "Regularização Fundiária",
+      "icone": "fa-house-chimney",
+      "camadas": [
+        {
+          "nome": "Iteraima - Títulos Definitivos",
+          "arquivo": "camadas/Iteraima_Titulos_Definitivos.json",
+          "tipo": "poligono",
+          "estilo": {
+            "color": "#e1b053",
+            "weight": 2,
+            "fillColor": "#e1b053",
+            "fillOpacity": 0.3
+          },
+          "visivel": false
+        },
+        {
+          "nome": "Autorização de Ocupação",
+          "arquivo": "camadas/Autorizacao_Ocupacao.json",
+          "tipo": "poligono",
+          "estilo": {
+            "color": "#e600a9",
+            "weight": 2,
+            "fillColor": "#e600a9",
+            "fillOpacity": 0.3
+          },
+          "visivel": false
+        },
+        {
+          "nome": "Parcelas Certificadas",
+          "arquivo": "camadas/Parcelas_Certificadas.json",
+          "tipo": "poligono",
+          "estilo": {
+            "color": "#9400D3",
+            "weight": 2,
+            "fillColor": "#9400D3",
+            "fillOpacity": 0.3
+          },
+          "visivel": false
+        },
+        {
+          "nome": "SIGEF - Tituladas",
+          "arquivo": "camadas/SIGEF_Tituladas.json",
+          "tipo": "poligono",
+          "estilo": {
+            "color": "#894444",
+            "weight": 2,
+            "fillColor": "#894444",
+            "fillOpacity": 0.3
+          },
+          "visivel": false
+        }
+      ]
+    },
+    {
+      "nome": "Fogo",
+      "icone": "fa-fire",
+      "camadas": [
+        {
+          "nome": "Fogo 2023",
+          "arquivo": "camadas/Fogo_2023.json",
+          "tipo": "ponto",
+          "estilo": {
+            "icone": "fa-fire",
+            "cor": "#FF4500"
+          },
+          "visivel": false
+        },
+        {
+          "nome": "Fogo 2024",
+          "arquivo": "camadas/Fogo_2024.json",
+          "tipo": "ponto",
+          "estilo": {
+            "icone": "fa-fire",
+            "cor": "#FF6347"
+          },
+          "visivel": false
+        },
+        {
+          "nome": "Fogo 2025",
+          "arquivo": "camadas/Fogo_2025.json",
+          "tipo": "ponto",
+          "estilo": {
+            "icone": "fa-fire",
+            "cor": "#FF0000"
+          },
+          "visivel": false
+        }
+      ]
+    },
+    {
+      "nome": "Embargos",
+      "icone": "fa-receipt",
+      "camadas": [
+        {
+          "nome": "IBAMA - Embargos",
+          "arquivo": "camadas/IBAMA_Embargos.json",
+          "tipo": "poligono",
+          "estilo": {
+            "color": "#FF0000",
+            "weight": 2,
+            "fillColor": "#FF0000",
+            "fillOpacity": 0.3
+          },
+          "visivel": false
+        }
+      ]
+    }
+  ]
+}

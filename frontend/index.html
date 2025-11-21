@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebApp Sentinela - Análise Multispectral</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Font Awesome para ícones -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+        crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+    <!-- CSS do Projeto -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/toolbar.css">
+    <style>
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        #searchScenesBtn.loading #searchScenesIcon {
+            animation: spin 1s linear infinite;
+        }
+
+        #searchScenesBtn.loading #searchScenesIcon.fa-search {
+            animation: none;
+        }
+
+        #searchScenesBtn.loading #searchScenesIcon.fa-spinner {
+            animation: spin 1s linear infinite;
+        }
+    </style>
+
+</head>
+<body>   
+    <!-- Tela de Abertura / Splash -->
+    <div id="splash-screen">
+        <div class="splash-card">
+        <div class="splash-logo">
+            <img src="img/logo.png" alt="Sentinela Sat" class="splash-logo-img">
+        </div>
+        <h1 class="splash-title">WebApp Sentinela</h1>
+        <p class="splash-subtitle">
+            Visualizador de imagens de satélite e camadas geográficas
+        </p>
+        <button id="startAppBtn" class="btn splash-btn">
+            <i class="bi bi-play-fill"></i>
+            Entrar no visualizador
+        </button>
+        <p class="splash-footer">
+            Backend: <span id="splash-backend-status">verificando...</span>        
+        <p class="splash-footer">
+            GEE: <span id="splash-gee-status">verificando...</span>        
+        </div>
+    </div>
+    <div id="app-container">
+        <!-- ===== BARRA VERTICAL ESQUERDA (TOOLBAR) ===== -->
+        <div id="toolbar" class="toolbar">
+            <div class="toolbar-header">
+                <button id="toggleToolbar" class="toolbar-btn" title="Colapsar/Expandir">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+
+            <div class="toolbar-tools">
+                <!-- Zoom -->
+                <button id="zoomInBtn" class="toolbar-btn" title="Zoom In">
+                    <i class="fas fa-plus"></i>
+                </button>
+                <button id="zoomOutBtn" class="toolbar-btn" title="Zoom Out">
+                    <i class="fas fa-minus"></i>
+                </button>
+
+                <!-- Desenhar Polígono -->
+                <button id="drawPolyBtn" class="toolbar-btn" title="Desenhar Polígono">
+                    <i class="fas fa-draw-polygon"></i>
+                </button>
+
+                <!-- Tipo de Mapa -->
+                <button id="mapTypeBtn" class="toolbar-btn" title="Tipo de Mapa">
+                    <i class="fas fa-layer-group"></i>
+                </button>
+
+                <!-- Inspector de Coordenadas -->
+                <button id="inspectorToolbarBtn" class="toolbar-btn" title="Inspector de Coordenadas">
+                    <i class="fas fa-crosshairs"></i>
+                </button>
+
+                <!-- Configurações -->
+                <button id="settingsBtn" class="toolbar-btn" title="Configurações">
+                    <i class="fas fa-cog"></i>
+                </button>
+            </div>
+        </div>
+
+        <!-- ===== BARRA DE PESQUISA (TOPO-ESQUERDO) ===== -->
+        <div class="search-box" id="searchBox">
+            <input 
+                type="text" 
+                id="searchInput" 
+                placeholder="🔍 Coordenadas (lat,lng) ou Endereço..." 
+                autocomplete="off"
+            >
+            <button id="searchBtn" title="Buscar">
+                <i class="fas fa-search"></i>
+            </button>
+        </div>
+
+        <!-- ===== MAPA INTERATIVO ===== -->
+        <div id="map" class="map-container"></div>
+
+        <!-- ===== TOOLBAR DIREITA (COLAPSÁVEL) ===== -->
+        <div id="toolbar-right" class="toolbar-right">
+            <div class="toolbar-right-header">
+                <button id="openRightPanel" class="toolbar-right-btn expand-btn" title="Expandir Painel">
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+            </div>
+
+            <div class="toolbar-right-tools">
+                <!-- Botão para Comparação (Swipe) -->
+                <button id="compareBtn" class="toolbar-btn" title="Comparar Imagens">
+                    <i class="fas fa-arrows-alt-h"></i>
+                </button>
+            
+                <button id="layersBtn" class="toolbar-btn" title="Camadas Geoespaciais">
+                    <i class="fas fa-map"></i>
+                </button>
+            </div>    
+        </div>
+
+        <!-- ===== PAINEL DIREITO (CENAS) ===== -->
+        <div id="right-panel" class="right-panel collapsed">
+            <div class="panel-header">
+                <h2>Cenas Disponíveis</h2>
+                <button id="openSettingsPanel" class="settings-icon" title="Configurar Busca">
+                    <i class="fas fa-sliders-h"></i>
+                </button>
+                <button id="collapseRightPanel" class="collapse-btn" title="Fechar">
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+            </div>
+
+            <div class="thumbnails-container">
+                <p class="thumb-hint">
+                    <i class="fas fa-sliders-h"></i>
+                    Abra o painel "Configurar Buscas" para carregar imagens
+                </p>
+                <!-- Thumbnails serão inseridas aqui via JavaScript -->
+            </div>
+        </div>
+        <!-- Painel de Camadas -->
+        <div id="layers-panel" class="layers-panel collapsed">
+            <div class="layers-panel-header">
+                <span class="layers-panel-title">CAMADAS GEOESPACIAIS</span>
+                <button id="closeLayers" class="layers-close-btn" type="button" title="Fechar">
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+            </div>
+            <div id="layers-panel-content" class="layers-panel-content">
+            <!-- Conteúdo será preenchido dinamicamente por layers.js -->
+            </div>
+        </div>
+    
+        <!-- ===== PAINEL DE CONFIGURAÇÕES (MECANISMOS DE BUSCA) ===== -->
+        <div id="settings-panel" class="settings-panel hidden">
+            <div class="settings-header">
+                <h2>Configurações de Busca</h2>
+                <button id="closeSettingsPanel" class="close-btn" title="Fechar">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+
+            <div class="settings-content">
+                <!-- FONTE DE DADOS (SENSOR) -->
+                <div class="control-group">
+                    <label>
+                        <i class="fas fa-satellite"></i>
+                        Fonte de Dados
+                    </label>
+                    <select id="sensorSelect">
+                        <option value="sentinel">Sentinel-2 L2A</option>
+                        <option value="landsat8">Landsat 8 (Pan-Sharpen)</option>
+                    </select>
+                </div>
+
+                <!-- TIPO DE VISUALIZAÇÃO -->
+                <div class="control-group">
+                    <label>
+                        <i class="fas fa-layer-group"></i>
+                        Tipo de Visualização
+                    </label>
+                    <select id="visSelect">
+                        <option value="rgb">RGB Natural</option>
+                        <option value="falsa-cor">Falsa Cor (NIR-RED-GREEN)</option>
+                        <option value="ndvi">NDVI</option>
+                        <option value="ndwi">NDWI (Água)</option>
+                        <option value="nbr">NBR (Queimada)</option>
+                        <option value="agricultura">Agricultura (SWIR-NIR-BLUE)</option>
+                    </select>
+                </div>
+
+                <!-- PERÍODO DE ANÁLISE -->
+                <div class="control-group">
+                    <label>
+                        <i class="fas fa-calendar-alt"></i>
+                        Período de Análise
+                    </label>
+                    <div style="display: flex; gap: 8px;">
+                        <input type="date" id="dateStart" placeholder="Data Inicial">
+                        <input type="date" id="dateEnd" placeholder="Data Final">
+                    </div>
+                </div>
+
+                <!-- COBERTURA DE NUVENS -->
+                <div class="control-group">
+                    <label>
+                        <i class="fas fa-cloud-sun"></i>
+                        Cobertura Nuvem (≤ 100%)
+                    </label>
+                    <div class="slider-group">
+                        <input type="range" id="cloudSlider" min="0" max="100" value="80">
+                        <span class="value-display" id="cloudValue">80%</span>
+                    </div>
+                </div>
+
+                <!-- AJUSTE GAMA -->
+                <div class="control-group">
+                    <label>
+                        <i class="fas fa-sliders-h"></i>
+                        Ajuste Gama
+                    </label>
+                    <div class="slider-group">
+                        <input type="range" id="gammaSlider" min="0.5" max="2" step="0.05" value="1.25">
+                        <span class="value-display" id="gammaValue">1.25</span>
+                    </div>
+                </div>
+                <!-- AJUSTE BRILHO -->
+                <div class="control-group">
+                    <label>
+                        <i class="fas fa-sun"></i>
+                        Ajuste Brilho
+                    </label>
+                    <div class="slider-group">
+                        <input type="range" id="brightnessSlider" min="0.5" max="4f" step="0.05" value="1.0">
+                        <span class="value-display" id="brightnessValue">1.0</span>
+                    </div>
+                </div>
+                <!-- ⭐ NOVO: AJUSTE CONTRASTE -->
+                <div class="control-group">
+                    <label>
+                        Ajuste Contraste
+                    </label>
+                    <div class="slider-group">
+                        <input type="range" id="contrastSlider" min="0.5" max="3" step="0.1" value="1.0">
+                        <span class="value-display" id="contrastValue">1.0</span>
+                    </div>
+                </div>
+                <!-- BOTÃO BUSCAR -->
+                <div style="display: flex; flex-direction: column; gap: 4px;">
+                    <button class="btn" id="searchScenesBtn" style="width: 100%; display: flex; align-items: center; justify-content: center; gap: 8px;">
+                        <i class="fas fa-search" id="searchScenesIcon"></i>
+                        <span id="searchScenesText">Buscar Cenas</span>
+                    </button>
+                    <button class="btn" id="cancelSearchBtn" style="width: 100%; display: none; padding: 6px 12px; font-size: 12px;">
+                        <i class="fas fa-times"></i> Cancelar
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== FOOTER COM COORDENADAS E ZOOM ===== -->
+        <div class="footer-info">
+            <span id="coordsInfo">1.9760°, -60.3425° | Zoom: 7</span>
+            <span id="distanceInfo">1:50000 | 3.0 km</span>
+        </div>
+    </div>
+
+    <!-- ===== SCRIPTS ===== -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- Scripts do Projeto (ordem importa!) -->
+    <script src="js/app.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/layers.js"></script>
+    <script src="js/toolbar.js"></script>
+    <script src="js/coordinates.js"></script>
+    <script src="js/measurement.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/inspector.js"></script>
+    <script src="js/search.js"></script>
+    <script src="js/gee-handler.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // ===== 1) CENTRALIZAR EM RORAIMA (COORDENADAS CORRETAS) =====
+            var roramaLat = 1.9760;
+            var roramaLon = -60.3425;
+            var roramaZoom = 7;
+
+            var coordsInfo = document.getElementById('coordsInfo');
+            if (coordsInfo) {
+                coordsInfo.textContent = roramaLat.toFixed(4) + '°, ' + roramaLon.toFixed(4) + '° | Zoom: ' + roramaZoom;
+            }
+
+            // Tentar atualizar o mapa se ele já foi inicializado
+            setTimeout(function() {
+                if (window.map && typeof window.map.setView === 'function') {
+                    window.map.setView([roramaLat, roramaLon], roramaZoom);
+                }
+            }, 500);
+
+            // ===== 2) DEFINIR DATAS (PRIMEIRO E ÚLTIMO DIA DO MÊS VIGENTE) =====
+            var dateStart = document.getElementById('dateStart');
+            var dateEnd = document.getElementById('dateEnd');
+
+            if (dateStart && dateEnd) {
+                var today = new Date();
+                var firstDay = new Date(today.getFullYear(), today.getMonth(), 1);
+                var lastDay = new Date(today.getFullYear(), today.getMonth() + 1, 0);
+
+                var formatDate = function(d) {
+                    return d.toISOString().split('T')[0];
+                };
+
+                dateStart.value = formatDate(firstDay);
+                dateEnd.value = formatDate(lastDay);
+            }
+
+            // ===== 3) CONTROLE DO BOTÃO BUSCAR CENAS COM ANIMAÇÃO SPINNER =====
+            var searchBtn = document.getElementById('searchScenesBtn');
+            var cancelBtn = document.getElementById('cancelSearchBtn');
+            var searchIcon = document.getElementById('searchScenesIcon');
+            var searchText = document.getElementById('searchScenesText');
+            var isSearching = false;
+
+            function startSearch() {
+                isSearching = true;
+                searchBtn.disabled = true;
+                searchBtn.classList.add('loading');
+
+                // Trocar classe de search para spinner e aplicar fa-spin
+                if (searchIcon) {
+                    searchIcon.classList.remove('fa-search');
+                    searchIcon.classList.add('fa-spinner', 'fa-spin', 'fa-fw');
+                }
+
+                if (searchText) {
+                    searchText.textContent = 'Buscando...';
+                }
+
+                // Mostrar botão de cancelar
+                if (cancelBtn) {
+                    cancelBtn.style.display = 'inline-block';
+                }
+            }
+
+            function stopSearch() {
+                isSearching = false;
+                searchBtn.disabled = false;
+                searchBtn.classList.remove('loading');
+
+                // Trocar ícone de spinner de volta para search
+                if (searchIcon) {
+                    searchIcon.classList.remove('fa-spinner', 'fa-spin', 'fa-fw');
+                    searchIcon.classList.add('fa-search');
+                }
+
+                if (searchText) {
+                    searchText.textContent = 'Buscar Cenas';
+                }
+
+                // Esconder botão de cancelar
+                if (cancelBtn) {
+                    cancelBtn.style.display = 'none';
+                }
+            }
+
+            // Evento: clicar em "Buscar Cenas"
+            if (searchBtn) {
+                searchBtn.addEventListener('click', function(e) {
+                    if (isSearching) {
+                        e.preventDefault();
+                        return;
+                    }
+
+                    startSearch();
+
+                    // AQUI você chama sua função de busca de cenas
+                    // Por exemplo: performSearch();
+                    // Depois que terminar, chame: window.searchFinished();
+                });
+            }
+
+            // Evento: clicar em "Cancelar"
+            if (cancelBtn) {
+                cancelBtn.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    stopSearch();
+
+                    // Se houver uma requisição em andamento, cancelá-la aqui
+                    if (typeof window.abortCurrentSearch === 'function') {
+                        window.abortCurrentSearch();
+                    }
+                });
+            }
+
+            // Expor funções globais para que o backend/seu código possa chamar
+            window.searchFinished = function() {
+                stopSearch();
+            };
+
+            window.startSearchAnimation = function() {
+                startSearch();
+            };
+
+            // Log para confirmar inicialização
+            console.log('✓ WebApp inicializado com coordenadas de Roraima:', [roramaLat, roramaLon]);
+        });
+    </script>
+
+</body>
+</html>

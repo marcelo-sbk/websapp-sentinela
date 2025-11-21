@@ -1,0 +1,15 @@
+Estrutura final:
+
+text
+frontend/
+├── index.html ✅ (NOVO LAYOUT)
+├── css/
+│   ├── style.css ✅ (CORES AZUIS)
+│   └── toolbar.css ✅ (NOVO)
+└── js/
+    ├── app.js ✅
+    ├── map.js ✅ (ATUALIZADO)
+    ├── toolbar.js ✅ (COMPLETO)
+    ├── coordinates.js ✅ (NOVO)
+    ├── ui.js ✅ (ATUALIZADO)
+    └── inspector.js ✅
