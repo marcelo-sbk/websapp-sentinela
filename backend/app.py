@@ -10,10 +10,9 @@ from flask_cors import CORS
 
 load_dotenv()
 
-# Autenticação GEE com arquivo local
 service_account_json = os.getenv('GEE_SERVICE_ACCOUNT_JSON')
 if service_account_json and service_account_json.strip().startswith('{'):
-    # Cria arquivo temporário para a chave
+    # Cria arquivo temporário para chave no filesystem
     with tempfile.NamedTemporaryFile('w+', delete=False, suffix='.json') as f:
         f.write(service_account_json)
         service_account_path = f.name
@@ -21,9 +20,8 @@ else:
     service_account_path = 'service_account.json'
 
 try:
-    ee.Authenticate()
-    credentials = ee.oauth.ServiceAccountCredentials(service_account_path)
-    ee.Initialize(credentials=credentials, project='webapp-sentinela')
+    credentials = ee.ServiceAccountCredentials('', service_account_path)
+    ee.Initialize(credentials)
     GEE_STATUS = "✅ Conectado"
 except Exception as e:
     GEE_STATUS = f"❌ Erro: {str(e)}"
