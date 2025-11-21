@@ -24,10 +24,8 @@ except Exception as e:
 
 app = Flask(__name__)
 CORS(app, origins=[
-    "http://localhost:8000",
-    "http://localhost:3000",
-    "https://webapp-sentinela.web.app",
-    "*"
+    "https://websapp-sentinela.web.app",   # sua URL final
+    "https://websapp-sentinela.firebaseapp.com"
 ])
 
 
